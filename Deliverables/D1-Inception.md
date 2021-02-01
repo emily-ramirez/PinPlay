@@ -1,7 +1,7 @@
 # Project Inception
 
-*Group 06 - `Name TBD`
-Date: `Due Date here`
+*Group 06 - `Name TBD`\
+Date: `Due Date here`\
 Group Members: Karina Anaya, Sophia Frohna, Samantha Milligan, Jacob Penney, Emily Serrano Ramirez, Lucina de la Rosa*
 
 ## 1. Introduction
