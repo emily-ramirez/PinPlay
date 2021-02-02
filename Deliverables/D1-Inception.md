@@ -2,7 +2,7 @@
 
 *Group 06 - `Name TBD`\
 Date: `Due Date here`\
-Group Members: Karina Anaya, Sophia Frohna, Samantha Milligan, Jacob Penney, Emily Serrano Ramirez, Lucina de la Rosa*
+Group Members: Karina Anaya, Sophia Frohna, Samantha Milligan, Jacob Penney, Emily Ramirez Serrano, Lucina de la Rosa*
 
 ## 1. Introduction
 describe in one paragraph what your project is about. Make it clear what problem your software is solving.
