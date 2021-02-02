@@ -16,11 +16,11 @@ describe in one paragraph what your project is about. Make it clear what problem
 ## 3. Interviews summary
 
 ### Interview 1
-**Summary:** here
-**Interviewer:** here
-**Interviewee:** here
-**When:** here
-**Consumer Segments:** here
+**Summary:** here\
+**Interviewer:** here\
+**Interviewee:** here\
+**When:** here\
+**Consumer Segments:** here\
 
 **Key Insights**
 * Bullet points
@@ -35,11 +35,11 @@ describe in one paragraph what your project is about. Make it clear what problem
 * Bullet points
 
 ### Interview 2
-**Summary:** here
-**Interviewer:** here
-**Interviewee:** here
-**When:** here
-**Consumer Segments:** here
+**Summary:** here\
+**Interviewer:** here\
+**Interviewee:** here\
+**When:** here\
+**Consumer Segments:** here\
 
 **Key Insights**
 * Bullet points
@@ -54,11 +54,11 @@ describe in one paragraph what your project is about. Make it clear what problem
 * Bullet points
 
 ### Interview 3
-**Summary:** here
-**Interviewer:** here
-**Interviewee:** here
-**When:** here
-**Consumer Segments:** here
+**Summary:** here\
+**Interviewer:** here\
+**Interviewee:** here\
+**When:** here\
+**Consumer Segments:** here\
 
 **Key Insights**
 * Bullet points
@@ -73,11 +73,11 @@ describe in one paragraph what your project is about. Make it clear what problem
 * Bullet points
 
 ### Interview 4
-**Summary:** here
-**Interviewer:** here
-**Interviewee:** here
-**When:** here
-**Consumer Segments:** here
+**Summary:** here\
+**Interviewer:** here\
+**Interviewee:** here\
+**When:** here\
+**Consumer Segments:** here\
 
 **Key Insights**
 * Bullet points
@@ -92,11 +92,11 @@ describe in one paragraph what your project is about. Make it clear what problem
 * Bullet points
 
 ### Interview 5
-**Summary:** here
-**Interviewer:** here
-**Interviewee:** here
-**When:** here
-**Consumer Segments:** here
+**Summary:** here\
+**Interviewer:** here\
+**Interviewee:** here\
+**When:** here\
+**Consumer Segments:** here\
 
 **Key Insights**
 * Bullet points
@@ -111,11 +111,11 @@ describe in one paragraph what your project is about. Make it clear what problem
 * Bullet points
 
 ### Interview 6
-**Summary:** here
-**Interviewer:** here
-**Interviewee:** here
-**When:** here
-**Consumer Segments:** here
+**Summary:** here\
+**Interviewer:** here\
+**Interviewee:** here\
+**When:** here\
+**Consumer Segments:** here\
 
 **Key Insights**
 * Bullet points
@@ -130,11 +130,11 @@ describe in one paragraph what your project is about. Make it clear what problem
 * Bullet points
 
 ### Interview 7
-**Summary:** here
-**Interviewer:** here
-**Interviewee:** here
-**When:** here
-**Consumer Segments:** here
+**Summary:** here\
+**Interviewer:** here\
+**Interviewee:** here\
+**When:** here\
+**Consumer Segments:** here\
 
 **Key Insights**
 * Bullet points
@@ -149,11 +149,11 @@ describe in one paragraph what your project is about. Make it clear what problem
 * Bullet points
 
 ### Interview 8
-**Summary:** here
-**Interviewer:** here
-**Interviewee:** here
-**When:** here
-**Consumer Segments:** here
+**Summary:** here\
+**Interviewer:** here\
+**Interviewee:** here\
+**When:** here\
+**Consumer Segments:** here\
 
 **Key Insights**
 * Bullet points
@@ -168,11 +168,11 @@ describe in one paragraph what your project is about. Make it clear what problem
 * Bullet points
 
 ### Interview 9
-**Summary:** here
-**Interviewer:** here
-**Interviewee:** here
-**When:** here
-**Consumer Segments:** here
+**Summary:** here\
+**Interviewer:** here\
+**Interviewee:** here\
+**When:** here\
+**Consumer Segments:** here\
 
 **Key Insights**
 * Bullet points
