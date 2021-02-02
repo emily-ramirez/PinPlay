@@ -20,7 +20,7 @@ describe in one paragraph what your project is about. Make it clear what problem
 **Interviewer:** here\
 **Interviewee:** here\
 **When:** here\
-**Consumer Segments:** here\
+**Consumer Segments:** here
 
 **Key Insights**
 * Bullet points
@@ -39,7 +39,7 @@ describe in one paragraph what your project is about. Make it clear what problem
 **Interviewer:** here\
 **Interviewee:** here\
 **When:** here\
-**Consumer Segments:** here\
+**Consumer Segments:** here
 
 **Key Insights**
 * Bullet points
@@ -58,7 +58,7 @@ describe in one paragraph what your project is about. Make it clear what problem
 **Interviewer:** here\
 **Interviewee:** here\
 **When:** here\
-**Consumer Segments:** here\
+**Consumer Segments:** here
 
 **Key Insights**
 * Bullet points
@@ -77,7 +77,7 @@ describe in one paragraph what your project is about. Make it clear what problem
 **Interviewer:** here\
 **Interviewee:** here\
 **When:** here\
-**Consumer Segments:** here\
+**Consumer Segments:** here
 
 **Key Insights**
 * Bullet points
@@ -96,7 +96,7 @@ describe in one paragraph what your project is about. Make it clear what problem
 **Interviewer:** here\
 **Interviewee:** here\
 **When:** here\
-**Consumer Segments:** here\
+**Consumer Segments:** here
 
 **Key Insights**
 * Bullet points
@@ -115,7 +115,7 @@ describe in one paragraph what your project is about. Make it clear what problem
 **Interviewer:** here\
 **Interviewee:** here\
 **When:** here\
-**Consumer Segments:** here\
+**Consumer Segments:** here
 
 **Key Insights**
 * Bullet points
@@ -134,7 +134,7 @@ describe in one paragraph what your project is about. Make it clear what problem
 **Interviewer:** here\
 **Interviewee:** here\
 **When:** here\
-**Consumer Segments:** here\
+**Consumer Segments:** here
 
 **Key Insights**
 * Bullet points
@@ -153,7 +153,7 @@ describe in one paragraph what your project is about. Make it clear what problem
 **Interviewer:** here\
 **Interviewee:** here\
 **When:** here\
-**Consumer Segments:** here\
+**Consumer Segments:** here
 
 **Key Insights**
 * Bullet points
@@ -172,7 +172,7 @@ describe in one paragraph what your project is about. Make it clear what problem
 **Interviewer:** here\
 **Interviewee:** here\
 **When:** here\
-**Consumer Segments:** here\
+**Consumer Segments:** here
 
 **Key Insights**
 * Bullet points
