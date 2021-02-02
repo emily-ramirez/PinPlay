@@ -192,3 +192,11 @@ describe in one paragraph what your project is about. Make it clear what problem
 
 **Consumer Segments:**
 * Bullet points
+
+## Participation of each member of the group
+* Karina Anaya:
+* Sophia Frohna:
+* Samantha Milligan:
+* Jacob Penney:
+* Emily Ramirez Serrano:
+* Lucina de la Rosa:
