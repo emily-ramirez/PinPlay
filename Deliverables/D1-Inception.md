@@ -1,27 +1,27 @@
 # Project Inception
 
 *Group 06 - `PinPlay`\
-Date: `02/12/2021`\
+Date: `02/14/2021`\
 Group Members: Karina Anaya, Sophia Frohna, Samantha Milligan, Jacob Penney, Emily Ramirez Serrano, Lucina de la Rosa*
 
 ## 1. Introduction
 
-For many business owners, selecting the right music is crucial for elevating a customer’s experience. Hit new music is essential to keep customers excited but often difficult to find. Although many digital music services have discovery features, they are often limited or do not allow users to cater to a specific demographic. PinPlay is an application designed to automatically generate playlists based on local popular music. In this way, businesses can customize playlists for their target consumers. PinPlay uses music platforms and a user’s location to collect top hits in their area. These songs are then used to generate unique playlists using Spotify’s library. Finally, the playlist is automatically saved onto the user’s Spotify account with no trouble or additional cost. Users can instantly access and enjoy new music for their businesses and bring in more customers.\
+For many business owners, selecting the right music is crucial for elevating a customer’s experience. Hit new music is essential to keep customers excited but often difficult to find. Although many digital music services have discovery features, they are often limited or do not allow users to cater to a specific demographic. PinPlay is an application designed to automatically generate playlists based on local popular music. In this way, businesses can customize playlists for their target consumers. PinPlay uses music platforms and a user’s location to collect top hits in their area. These songs are then used to generate unique playlists using Spotify’s library. Finally, the playlist is automatically saved onto the user’s Spotify account with no trouble or additional cost. Users can instantly access and enjoy new music for their businesses and bring in more customers.
 
 ## 2. Initial value proposition and consumer segments
 **Initial Value Proposition:** PinPlay is a convenient and easy-to-use playlist generator for your company based on popular music in your area.
 
 **Initial Consumer Segments:**
-	- Any business owner or worker who utilizes music\
-	- Restaurants\
-	- Cafes\
-	- Clubs\
-	- Bars\
-	- Stores\
-	- Shopping Centers\
-	- Party venues\
-	- Local event hosts\
-	- People looking to support their local music scene\
+ - Any business owner or worker who utilizes music\
+ - Restaurants\
+ - Cafes\
+ - Clubs\
+ - Bars\
+ - Stores\
+ - Shopping Centers\
+ - Party venues\
+ - Local event hosts\
+ - People looking to support their local music scene\
 
 ## 3. Interviews summary
 
