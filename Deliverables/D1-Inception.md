@@ -1,17 +1,27 @@
 # Project Inception
 
-*Group 06 - `Name TBD`\
-Date: `Due Date here`\
+*Group 06 - `PinPlay`\
+Date: `02/14/2021`\
 Group Members: Karina Anaya, Sophia Frohna, Samantha Milligan, Jacob Penney, Emily Ramirez Serrano, Lucina de la Rosa*
 
 ## 1. Introduction
-describe in one paragraph what your project is about. Make it clear what problem your software is solving.
+
+For many business owners, selecting the right music is crucial for elevating a customer’s experience. Hit new music is essential to keep customers excited but often difficult to find. Although many digital music services have discovery features, they are often limited or do not allow users to cater to a specific demographic. PinPlay is an application designed to automatically generate playlists based on local popular music. In this way, businesses can customize playlists for their target consumers. PinPlay uses music platforms and a user’s location to collect top hits in their area. These songs are then used to generate unique playlists using Spotify’s library. Finally, the playlist is automatically saved onto the user’s Spotify account with no trouble or additional cost. Users can instantly access and enjoy new music for their businesses and bring in more customers.
 
 ## 2. Initial value proposition and consumer segments
-**Initial value proposition:** here
+**Initial Value Proposition:** PinPlay is a convenient and easy-to-use playlist generator for your company based on popular music in your area.
 
 **Initial Consumer Segments:**
-* Bullet points
+ - Any business owner or worker who utilizes music
+ - Restaurants
+ - Cafes
+ - Clubs
+ - Bars
+ - Stores
+ - Shopping Centers
+ - Party venues
+ - Local event hosts
+ - People looking to support their local music scene
 
 ## 3. Interviews summary
 
@@ -116,43 +126,72 @@ describe in one paragraph what your project is about. Make it clear what problem
   - Nice to have
 
 ### Interview 6
-**Summary:** here\
-**Interviewer:** here\
-**Interviewee:** here\
-**When:** here\
-**Consumer Segments:** here
+**Summary:** Benefits both business owners and employees. Customize for type of business. Add playlists depending on a business’s busy hours and staff preferences. Emphasis on local music as a bridge between customers and the community.\
+**Interviewer:** Samantha Milligan\
+**Interviewee:** Sierra Milligan\
+**When:** 02/9/2021\
+**Consumer Segments:** Restaurant Worker
 
 **Key Insights**
-* Bullet points
+ - Hands-on people want to create playlists themselves
+ - Music is not the most important aspect of most businesses
+ - Owners would not want to spend a lot of money
+ - Pricing is the biggest concern - must be competitive with other music platforms
 
 **Representative Quotes**
-* Bullet points
+ - “If people are going to a local restaurant, they want to feel a part of the community.”
+ - “No one wants to pay for two music platforms.”
+ - “No one wants to listen to sad music when they’re eating half-prized wings.”
+ - “Employees feel more motivated to work when there’s music playing.”
+ 
 
 **Hypotheses that were validated**
-* Bullet points
-
+ - Owners would want their playlists customized depending on the type of business
+ - Consumers want to feel a connection to local communities
+ - Employees benefit from the music selection as well
+ 
 **Assessment: Must have / Nice to have / Don’t care**
-* Bullet points
-
+ - Weather playlists (Nice)
+ - Hour playlists (ex. “Happy Hour” and “Lunch Rush”) (Must)
+ - Sub-playlists for workers (Must)
+ - No Commercials (Must)
+ - User Map (Don’t Care)
+ - Selection Business Menu (Must)
+ 
 ### Interview 7
-**Summary:** here\
-**Interviewer:** here\
-**Interviewee:** here\
-**When:** here\
-**Consumer Segments:** here
+**Summary:** Family-friendly options are essential. Convenience at a low cost is the goal. Audience filters for different age demographics. Customer comfortability is the top priority.\
+**Interviewer:** Samantha Milligan\
+**Interviewee:** Anica Wilson\
+**When:** 02/09/2021\
+**Consumer Segments:** Cafe Owner
 
 **Key Insights**
-* Bullet points
-
+ - Offer option to share playlists
+ - More filters the better especially filters by age and audience
+ - Cost is the main concern
+ - Add family-friendly options
+ 
 **Representative Quotes**
-* Bullet points
-
+ - “You want people to feel comfortable coming into your store.”
+ - “Nice not to worry about choosing a music playlist.”
+ - “Music allows customers to feel comfortable.”
+ - “Many times, there is inappropriate music playing when I’m with my kids at the store.”
+ 
 **Hypotheses that were validated**
-* Bullet points
+ - Tedious to create playlists by yourself
+ - People prefer to have music automatically downloaded
+ - Owners would want their playlists customized depending on the type of business
 
 **Assessment: Must have / Nice to have / Don’t care**
-* Bullet points
-
+ - Audience Age Filter (Nice)
+ - Automatic Downloads (Must)
+ - Non-explicit/Explicit Filter (Must)
+ - Free Trials (Nice)
+ - Customer Reviews (Nice)
+ - User Map (Don’t Care)
+ - Mile-radius Feature (Must)
+ - Initial Music Quiz (Nice)
+ 
 ### Interview 8
 **Summary:** here\
 **Interviewer:** here\
