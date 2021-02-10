@@ -12,16 +12,16 @@ For many business owners, selecting the right music is crucial for elevating a c
 **Initial Value Proposition:** PinPlay is a convenient and easy-to-use playlist generator for your company based on popular music in your area.
 
 **Initial Consumer Segments:**
- - Any business owner or worker who utilizes music\
- - Restaurants\
- - Cafes\
- - Clubs\
- - Bars\
- - Stores\
- - Shopping Centers\
- - Party venues\
- - Local event hosts\
- - People looking to support their local music scene\
+ - Any business owner or worker who utilizes music
+ - Restaurants
+ - Cafes
+ - Clubs
+ - Bars
+ - Stores
+ - Shopping Centers
+ - Party venues
+ - Local event hosts
+ - People looking to support their local music scene
 
 ## 3. Interviews summary
 
