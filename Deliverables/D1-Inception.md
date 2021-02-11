@@ -26,42 +26,59 @@ For many business owners, selecting the right music is crucial for elevating a c
 ## 3. Interviews summary
 
 ### Interview 1
-**Summary:** here\
-**Interviewer:** here\
-**Interviewee:** here\
-**When:** here\
-**Consumer Segments:** here
+**Summary:** Diana works in a nursing home and sometimes plays music out loud when she is cleaning. She expressed concern for if explicit or offensive end up on the newly generated playlists, as this could offend people in her workplace. She wasn't interested in location-based features.\
+**Interviewer:** Sophia Frohna\
+**Interviewee:** Diana L.\
+**When:** 02/10/2021\
+**Consumer Segments:** Worker who utilizes music
 
 **Key Insights**
-* Bullet points
+* Needs to be quick and easy to use\
+* Should absolutely be able to save playlists to Spotify account
+* Needs to have an Explicit filter
 
 **Representative Quotes**
-* Bullet points
+* "If it, like, starts putting really vulgar songs on when I'm cleaning in front of old ladies, that's not great, right?"
+* "I'd still mostly be making playlists for me, so popular local songs aren't that important to me, so long as no one's complaining."
+* "Genre, yeah, genre is a must. Or mood."
 
 **Hypotheses that were validated**
-* Bullet points
+* Ease of use is important
+* Playlists should be easy to save to Spotify library
 
 **Assessment: Must have / Nice to have / Don’t care**
-* Bullet points
+* Previously saved songs filter (Don't care)
+* Genre/mood-based playlsits (Must have)
+* No Commercials (Must have)
+* User Map (Don't care)
+* Explicit filter (Must have)
 
 ### Interview 2
-**Summary:** here\
-**Interviewer:** here\
-**Interviewee:** here\
+**Summary:** Tom works custodial in businesses around town. Most of the time, he is listening to music or podcasts in his headphones, not playing it out loud, but still expressed interest in the ability to quickly generate multiple new playlists to try out before heading to work so he isn't distracted picking songs. He likes discovering new music, so finding popular music both locally and in selected other locations would be a liked feature. \
+**Interviewer:** Sophia Frohna\
+**Interviewee:** Thomas F. \
 **When:** here\
-**Consumer Segments:** here
+**Consumer Segments:** Worker who utilizes music, people looking to support their local music scene
 
 **Key Insights**
-* Bullet points
+* Would probably be best used before going to work to prep and save playlists, not during work
+* App still has value for people who don't play music for customers
+* Thinks it would be cool to see what local users listen to
 
 **Representative Quotes**
-* Bullet points
+* "I listen to music a lot while I'm at work, so it would be really good to be able to prep playlists with new music I haven't heard."
+* "I mostly use headphones, so making sure other people at work like my music isn't, y'know, I don't really care about that."
 
 **Hypotheses that were validated**
-* Bullet points
+* Users like multiple playlists of different genre generated quickly and easily
+* Playlists should be easy to save to Spotify library
 
 **Assessment: Must have / Nice to have / Don’t care**
-* Bullet points
+* Previously saved songs filter (Must have)
+* Genre/mood-based playlsits (Must have)
+* No Commercials (Must have)
+* User Map (Nice to have)
+* Explicit filter (Don't care)
 
 ### Interview 3
 **Summary:** here\
@@ -239,7 +256,7 @@ For many business owners, selecting the right music is crucial for elevating a c
 
 ## Participation of each member of the group
 * Karina Anaya:
-* Sophia Frohna:
+* Sophia Frohna: Did two interviews, helped write intro and consumer segments
 * Samantha Milligan:
 * Jacob Penney:
 * Emily Ramirez Serrano:
