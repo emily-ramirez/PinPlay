@@ -57,7 +57,7 @@ For many business owners, selecting the right music is crucial for elevating a c
 **Summary:** Tom works custodial in businesses around town. Most of the time, he is listening to music or podcasts in his headphones, not playing it out loud, but still expressed interest in the ability to quickly generate multiple new playlists to try out before heading to work so he isn't distracted picking songs. He likes discovering new music, so finding popular music both locally and in selected other locations would be a liked feature. \
 **Interviewer:** Sophia Frohna\
 **Interviewee:** Thomas F. \
-**When:** here\
+**When:** 02/10/2021\
 **Consumer Segments:** Worker who utilizes music, people looking to support their local music scene
 
 **Key Insights**
