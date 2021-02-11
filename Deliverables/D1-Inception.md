@@ -272,5 +272,5 @@ For many business owners, selecting the right music is crucial for elevating a c
 * Sophia Frohna: Did two interviews, helped write intro and consumer segments
 * Samantha Milligan:
 * Jacob Penney:
-* Emily Ramirez Serrano:
+* Emily Ramirez Serrano: Did two interviews, created template for deliverable
 * Lucina de la Rosa:
