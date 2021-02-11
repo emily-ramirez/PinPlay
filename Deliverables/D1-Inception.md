@@ -26,7 +26,7 @@ For many business owners, selecting the right music is crucial for elevating a c
 ## 3. Interviews summary
 
 ### Interview 1
-**Summary:** Diana works in a nursing home and sometimes plays music out loud when she is cleaning. She expressed concern for if explicit or offensive end up on the newly generated playlists, as this could offend people in her workplace. She wasn't interested in location-based features.\
+**Summary:** Diana works in a nursing home and sometimes plays music out loud when she is cleaning. She expressed concern for if explicit or offensive songs end up on the newly generated playlists, as this could offend people in her workplace. She wasn't interested in location-based features.\
 **Interviewer:** Sophia Frohna\
 **Interviewee:** Diana L.\
 **When:** 02/10/2021\
@@ -81,42 +81,55 @@ For many business owners, selecting the right music is crucial for elevating a c
 * Explicit filter (Don't care)
 
 ### Interview 3
-**Summary:** here\
-**Interviewer:** here\
-**Interviewee:** here\
-**When:** here\
-**Consumer Segments:** here
+**Summary:** Isabel is an avid music lover who is interested in the local music scene. Before the pandemic, she actively went to a lot of local music festivals but found it could be hard to find out they were happening ahead of time and would like a way to find artists as well as any shows they might be having. She is also experimental and loves finding new music that she can listen to. \
+**Interviewer:** Emily Ramirez\
+**Interviewee:** Isabel Flores\
+**When:** 2/09/2021\
+**Consumer Segments:** People looking to support their local music scene
 
 **Key Insights**
-* Bullet points
+* Would want to be able to find artists in her area
+* App also features any shows that might be upcoming 
+* Playlists are easy to find and save 
+* Generate experimental playlists
 
 **Representative Quotes**
-* Bullet points
+* "If you want people to find local artists then showing any like festivals or shows they're gonna be in would help more too."
+* "I've been into listening to music from foreign languages but it can be pretty hard to find anything outside of what I already have because of how Spotify reccomends music to me. Being able to look even at different countries would be nice"
+* I wanna be given a completely new playlist that I can find completely different music in"
 
 **Hypotheses that were validated**
-* Bullet points
+* User wants to find music from their area
+* Generating playlists is a point of interest
 
 **Assessment: Must have / Nice to have / Don’t care**
-* Bullet points
+* Finding music from local area (Must have)
+* Finding top music from areas outside of their own (Nice to have)
+* List upcoming performances from artists (Nice to have) 
+* Generate playlists that have songs completely new to them (Must have)
 
 ### Interview 4
-**Summary:** here\
-**Interviewer:** here\
-**Interviewee:** here\
-**When:** here\
-**Consumer Segments:** here
+**Summary:** Angel works at a family owned boba shop that tries to appeal to teenagers in the area. She tries to keep the place trendy and is in charge of the music that is played in there. She often likes to change up what is being played in the shop and doesn't want to be repeating the same music.\
+**Interviewer:** Emily Ramirez\
+**Interviewee:** Angel Denga\
+**When:** 2/10/2021\
+**Consumer Segments:** Worker who utilizes music
 
 **Key Insights**
-* Bullet points
+* Wants to find new music often
+* Wants to find playlists with similar music 
 
 **Representative Quotes**
-* Bullet points
+* "I'm not the best at finding new music so I'd like to be able to put in a few songs and find playlists that have them so I could get songs with the same vibe"
+* "Algorithms can be accurate but I feel like people who handmake their playlists have better music so I'd rather find user made ones"
 
 **Hypotheses that were validated**
-* Bullet points
+* Users want another way to find music 
 
 **Assessment: Must have / Nice to have / Don’t care**
-* Bullet points
+* Finding local music (Don't care)
+* Find and/or generate playlists with similar music (Must have)
+* Look through user generated playlists (Must have)
 
 ### Interview 5
 **Summary:** Could be useful for both looking at local and different area music. Needs to be easy to use. Could use some customization of the contents of the playlist (such as a gene filter).\
