@@ -262,10 +262,16 @@ For many business owners, selecting the right music is crucial for elevating a c
 - "My mood changes a lot, so being able to cater to that with the playlists I already have would be cool."
 
 **Hypotheses that were validated**
-- 
+- tedious to create playlists manually
+- end users desire the ability to work seamlessly ("automatically"). Want playlists made automatically, integrated with Spotify automatically 
 
 **Assessment: Must have / Nice to have / Don’t care**
-* Bullet points
+- seamless integration with music hosting service (Must have)
+- friendly or familiar UI (Must have)
+- Modify and generate playlists in ways spotify cannot (Must have)
+- Sharing playlists (Nice to have)
+- Metrics, e.g. display what music you've been listening to most lately and how much (Nice to have)
+- location based suggestions/playlist generation (Dont care)
 
 
 ## 4. Final value proposition and consumer segments
