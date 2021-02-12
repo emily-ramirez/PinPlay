@@ -48,7 +48,7 @@ For many business owners, selecting the right music is crucial for elevating a c
 
 **Assessment: Must have / Nice to have / Don’t care**
 * Previously saved songs filter (Don't care)
-* Genre/mood-based playlsits (Must have)
+* Genre/mood-based playlists (Must have)
 * No Commercials (Must have)
 * User Map (Don't care)
 * Explicit filter (Must have)
