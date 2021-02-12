@@ -256,7 +256,7 @@ For many business owners, selecting the right music is crucial for elevating a c
 - not interested in using playlists to find new music
 
 **Representative Quotes**
-- "I used to use playlists to find new music but I find stuff mostly on Tik-Tok now."
+- "I used to use playlists to find new music but I find stuff mostly on TikTok now."
 - "I use playlists all the time. I have one really large playlist that I listen to daily. It can be frustrating to work with."
 - "I don't really care about what other people in my area are listening to. I can see how others might though."
 - "My mood changes a lot, so being able to cater to that with the playlists I already have would be cool."
