@@ -33,7 +33,7 @@ For many business owners, selecting the right music is crucial for elevating a c
 **Consumer Segments:** Worker who utilizes music
 
 **Key Insights**
-* Needs to be quick and easy to use\
+* Needs to be quick and easy to use
 * Should absolutely be able to save playlists to Spotify account
 * Needs to have an Explicit filter
 
@@ -136,12 +136,12 @@ For many business owners, selecting the right music is crucial for elevating a c
 **Interviewer:** Lucina de la Rosa\
 **Interviewee:** Corrine Williams\
 **When:** 2/9/2021\
-**Consumer Segments:**  Spotify desktop users, people wanting to support the local music scene\
+**Consumer Segments:**  Spotify desktop users, people wanting to support the local music scene
 
 **Key Insights**
-  - Needs to be easy to use with a low barrier of entry\
-  - Genre filter could be helpful\
-  - Zip code search would also be useful\
+  - Needs to be easy to use with a low barrier of entry
+  - Genre filter could be helpful
+  - Zip code search would also be useful
 
 **Representative Quotes**
   - "I feel like for me presentation and super-low-barrier-of-entry would be the big things deciding whether I use it or not"
