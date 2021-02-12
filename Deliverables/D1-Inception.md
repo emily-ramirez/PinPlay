@@ -242,20 +242,27 @@ For many business owners, selecting the right music is crucial for elevating a c
 * Bullet points
 
 ### Interview 9
-**Summary:** here\
-**Interviewer:** here\
-**Interviewee:** here\
-**When:** here\
-**Consumer Segments:** here
+**Summary:** Ability to modify playlists in ways that Spotify does not currently offer is crucial. Other features are disinteresting.\
+**Interviewer:** Jacob Penney\
+**Interviewee:** Sarah Miles\
+**When:** 02/11/21\
+**Consumer Segments:** Office worker
 
 **Key Insights**
-* Bullet points
+- The ability to parse playlists, e.g. combine two or more playlists, mince playlists into smaller playlists, is highly desirable
+- interested in a seamless, user-friendly experience with the parent application, e.g. could use similar UI
+- Will not use/refuse to use an application that is not integrated, e.g. cannot save playlists directly to spotify
+- not interested in popular music by area, not interested in what others are listening to generally
+- not interested in using playlists to find new music
 
 **Representative Quotes**
-* Bullet points
+- "I used to use playlists to find new music but I find stuff mostly on Tik-Tok now."
+- "I use playlists all the time. I have one really large playlist that I listen to daily. It can be frustrating to work with."
+- "I don't really care about what other people in my area are listening to. I can see how others might though."
+- "My mood changes a lot, so being able to cater to that with the playlists I already have would be cool."
 
 **Hypotheses that were validated**
-* Bullet points
+- 
 
 **Assessment: Must have / Nice to have / Don’t care**
 * Bullet points
