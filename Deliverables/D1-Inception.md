@@ -223,23 +223,31 @@ For many business owners, selecting the right music is crucial for elevating a c
  - Initial Music Quiz (Nice)
  
 ### Interview 8
-**Summary:** here\
-**Interviewer:** here\
-**Interviewee:** here\
-**When:** here\
-**Consumer Segments:** here
+**Summary:** Regular Spotify user likes to find new music by local artists or recommended by other users.\
+**Interviewer:** Karina Anaya\
+**Interviewee:** Jared Tee\
+**When:** 2/12/21\
+**Consumer Segments:** Spotify Desktop User
 
 **Key Insights**
-* Bullet points
+- "What would be cool is an 'I'm feeling lucky button' that gives a random song based off song you already like"
+- "I would love to see other user's promoting their playlists if we have similar interests"
 
 **Representative Quotes**
-* Bullet points
+- "There's alot of songs I tend to forget to add so I like to look at what's popular"
+- "I would see local artist in concert if i found their music from spotifty"
+- "I use spotify 2 to 3 time per day"
 
 **Hypotheses that were validated**
-* Bullet points
+- Difficult to find local music
+- Tedious to see other's playlists
+- Difficult to make curated playlists
 
 **Assessment: Must have / Nice to have / Don’t care**
-* Bullet points
+- Age Filter (Nice)
+- Automatic playlist generate (Must)
+- Show local statistic (Nice)
+- Curated playlist (Must)
 
 ### Interview 9
 **Summary:** Ability to modify playlists in ways that Spotify does not currently offer is crucial. Other features are disinteresting.\
@@ -281,7 +289,7 @@ For many business owners, selecting the right music is crucial for elevating a c
 * Bullet points
 
 ## Participation of each member of the group
-* Karina Anaya:
+* Karina Anaya: Did one interview 
 * Sophia Frohna: Did two interviews, helped write intro and consumer segments
 * Samantha Milligan:
 * Jacob Penney:
