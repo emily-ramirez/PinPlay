@@ -286,7 +286,7 @@ For many business owners, selecting the right music is crucial for elevating a c
 **Final value proposition:** 
 * PinPlay gives users playlists at the touch of a button, helping them feel close to their favorite music scene even at the workplace.
 
-**Consumer Segments:**
+**Final Consumer Segments:**
  - Any business owner or worker who utilizes music
  - Restaurant employees
  - Cafe employees
@@ -297,11 +297,3 @@ For many business owners, selecting the right music is crucial for elevating a c
  - Office workers
  - Manual labor workers
  - People looking to support their local music scene
-
-## Participation of each member of the group
-* Karina Anaya: Did one interview, managed group
-* Sophia Frohna: Did two interviews, helped write intro and consumer segments, QA
-* Samantha Milligan: Did two interviews, helped write value prop and consumer segments, QA
-* Jacob Penney: Did one interview, took minutes, presented progress to class
-* Emily Ramirez Serrano: Did two interviews, created template for deliverable
-* Lucina de la Rosa: Did one interview
