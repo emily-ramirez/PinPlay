@@ -8,21 +8,20 @@ Group Members: Karina Anaya, Sophia Frohna, Samantha Milligan, Jacob Penney, Emi
 ## 1. Positioning
 ### 1.1 Problem statement
 
-The problem of [describe the problem]
-affects [the stakeholders affected by the problem]
-the impact of which is [what is the impact of the problem? What is it cost?]
+The problem of not being able to make playlists from locally popular music affects business owners, the impact of which is not being able to appeal to the local community’s taste in music.
 
 ### 1.2. Product Position Statement
 
-For [target customer]
-Who [statement of the need or opportunity]
-The (product name) [product name] is a [product category]
-That [statement of key benefit; that is, the compelling reason to buy]
-Unlike [primary competitive alternative]
-Our product [statement of primary differentiation]
+For business owners and Spotify users who want to make playlists of music popular in a specific area, Pinplay is a web app that lets you create playlists from music popular in cities around the US. Unlike Spotify's top 50 in a country playlists, our product can make playlists of popular music from more local areas.
 
 ### 1.3. Value proposition and consumer segment
 
+Value Proposition:
+* Pinplay lets users quickly and easily make playlists based on popular music in a locale, which lets them easily get locally popular music or discover what is popular in other areas.
+
+Consumer Segment:
+- Spotify users
+- Any business owner or worker who utilizes music
 
 
 ## 2. Stakeholders
