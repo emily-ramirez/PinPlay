@@ -123,13 +123,13 @@ Consumer Segment:
 
 # 7. User stories
 
-**User story 1**: 
-Priority: 
-Estimated Hours:
+**User story 1**: As a user, I want to filter explicit songs so that I can make a family-friendly playlist.
+Priority: 3
+Estimated Hours: 4
 
-**User story 2**: 
-Priority: 
-Estimated Hours:
+**User story 2**: As a user, I want to filter songs by genre so I can only listen to genres I am interested in.
+Priority: 3
+Estimated Hours: 6
 
 **User story 3**: 
 Priority: 
