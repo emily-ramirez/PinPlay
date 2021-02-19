@@ -58,7 +58,7 @@ Consumer Segment:
 **Alternative Flow**:
 #.
 **User Interface Sketch**:
-![](img to embed goes here)
+![Sketch_1](../media/requirements/Sketch_1.png)
 
 **Use Case 2**:
 **Actor**:  
