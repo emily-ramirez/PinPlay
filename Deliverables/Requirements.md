@@ -8,20 +8,20 @@ Group Members: Karina Anaya, Sophia Frohna, Samantha Milligan, Jacob Penney, Emi
 ## 1. Positioning
 ### 1.1 Problem statement
 
-The problem of not being able to make playlists from locally popular music affects business owners, the impact of which is not being able to appeal to the local community’s taste in music.
+The problem of creating playlists without the knowledge of local popular music greatly affects business owners and their customer outreach; the impact of which is a lack of appeal to the local community’s music taste and lower customer satisfaction.
 
 ### 1.2. Product Position Statement
 
-For business owners and Spotify users who want to make playlists of music popular in a specific area, Pinplay is a web app that lets you create playlists from music popular in cities around the US. Unlike Spotify's top 50 in a country playlists, our product can make playlists of popular music from more local areas.
+For business owners who want to easily create a playlist, Pinplay is a web application designed to automatically generate playlists based on popular music in their area. Unlike Spotify's collection of top hits from a country, our product designs playlists catered from city to city so that every person and region feels at home with our music.
 
 ### 1.3. Value proposition and consumer segment
 
 Value Proposition:
-* Pinplay lets users quickly and easily make playlists based on popular music in a locale, which lets them easily get locally popular music or discover what is popular in other areas.
+* Pinplay allows business owners to quickly and easily create playlists based on popular music preferences, appealing to local customer taste.
 
 Consumer Segment:
-- Spotify users
 - Any business owner or worker who utilizes music
+- Customers who want to listen to playlists from a business
 
 
 ## 2. Stakeholders
