@@ -1,4 +1,5 @@
 
+
 # Requirements
 
 *Group 06 – `PinPlay`\
@@ -48,128 +49,128 @@ Consumer Segment:
 
 ### 6.2. Use case descriptions
 
-**Use Case 1**:
-**Actor**:  
-**Description**: 
-**Preconditions**: 
-**Postconditions**: 
-**Main Flow**:
-1.
-**Alternative Flow**:
-#.
+**Use Case 1**: \
+**Actor**: \
+**Description**: \
+**Preconditions**: \
+**Postconditions**: \
+**Main Flow**: \
+1. 
+**Alternative Flow**: \
+#\
+**User Interface Sketch**:
+![Sketch_1](media/requirements/Sketch_1.png)
+
+**Use Case 2**: \
+**Actor**: \
+**Description**: \
+**Preconditions**: \
+**Postconditions**: \
+**Main Flow**: \
+1. 
+**Alternative Flow**: \
+#\
 **User Interface Sketch**:
 ![](img to embed goes here)
 
-**Use Case 2**:
-**Actor**:  
-**Description**: 
-**Preconditions**: 
-**Postconditions**: 
-**Main Flow**:
-1.
-**Alternative Flow**:
-#.
+**Use Case 3**: \
+**Actor**: \
+**Description**: \
+**Preconditions**: \
+**Postconditions**: \
+**Main Flow**: \
+1. 
+**Alternative Flow**: \
+#\
 **User Interface Sketch**:
 ![](img to embed goes here)
 
-**Use Case 3**:
-**Actor**:  
-**Description**: 
-**Preconditions**: 
-**Postconditions**: 
-**Main Flow**:
-1.
-**Alternative Flow**:
-#.
+**Use Case 4**: \
+**Actor**: \
+**Description**: \
+**Preconditions**: \
+**Postconditions**: \
+**Main Flow**: \
+1. 
+**Alternative Flow**: \
+#\
 **User Interface Sketch**:
 ![](img to embed goes here)
 
-**Use Case 4**:
-**Actor**:  
-**Description**: 
-**Preconditions**: 
-**Postconditions**: 
-**Main Flow**:
-1.
-**Alternative Flow**:
-#.
+**Use Case 5**: \
+**Actor**: \
+**Description**: \
+**Preconditions**: \
+**Postconditions**: \
+**Main Flow**: \
+1. 
+**Alternative Flow**: \
+#\
 **User Interface Sketch**:
 ![](img to embed goes here)
 
-**Use Case 5**:
-**Actor**:  
-**Description**: 
-**Preconditions**: 
-**Postconditions**: 
-**Main Flow**:
-1.
-**Alternative Flow**:
-#.
-**User Interface Sketch**:
-![](img to embed goes here)
-
-**Use Case 6**:
-**Actor**:  
-**Description**: 
-**Preconditions**: 
-**Postconditions**: 
-**Main Flow**:
-1.
-**Alternative Flow**:
-#.
+**Use Case 6**: \
+**Actor**: \
+**Description**: \
+**Preconditions**: \
+**Postconditions**: \
+**Main Flow**: \
+1. 
+**Alternative Flow**: \
+#\
 **User Interface Sketch**:
 ![](img to embed goes here)
 
 
 # 7. User stories
 
-**User story 1**: As a user, I want to filter explicit songs so that I can make a family-friendly playlist.
-Priority: 3
+**User story 1**: As a user, I want to filter explicit songs so that I can make a family-friendly playlist.\
+Priority: 3\
 Estimated Hours: 4
 
-**User story 2**: As a user, I want to filter songs by genre so I can only listen to genres I am interested in.
-Priority: 3
+**User story 2**: As a user, I want to filter songs by genre so I can only listen to genres I am interested in.\
+Priority: 3\
 Estimated Hours: 6
 
-**User story 3**: 
-Priority: 
-Estimated Hours:
+**User story 3**: \
+Priority: \
+Estimated Hours: 
 
-**User story 4**: 
-Priority: 
-Estimated Hours:
+**User story 4**: \
+Priority: \
+Estimated Hours: 
 
-**User story 5**: 
-Priority: 
-Estimated Hours:
+**User story 5**: \
+Priority: \
+Estimated Hours: 
 
-**User story 6**: 
-Priority: 
-Estimated Hours:
+**User story 6**: \
+Priority: \
+Estimated Hours: 
 
-**User story 7**: 
-Priority: 
-Estimated Hours:
+**User story 7**: \
+Priority: \
+Estimated Hours: 
 
-**User story 8**: 
-Priority: 
-Estimated Hours:
+**User story 8**: \
+Priority: \
+Estimated Hours: 
 
-**User story 9**: 
-Priority: 
-Estimated Hours:
+**User story 9**: \
+Priority: \
+Estimated Hours: 
 
-**User story 10**: 
-Priority: 
-Estimated Hours:
+**User story 10**: \
+Priority: \
+Estimated Hours: 
 
-**User story 11**: 
-Priority: 
-Estimated Hours:
+**User story 11**: \
+Priority: \
+Estimated Hours: 
 
-**User story 12**: 
-Priority: 
-Estimated Hours:
+**User story 12**: \
+Priority: \
+Estimated Hours: 
 
 ## 8. Trello Issue Tracker
 Must include Backlog, To Do in the Current Release, Doing, and Done
