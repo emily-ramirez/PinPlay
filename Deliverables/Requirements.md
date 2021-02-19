@@ -27,11 +27,11 @@ Consumer Segment:
 
 ## 2. Stakeholders
 
-- Developers: Karina Anaya, Lucina de la Rosa, Sophia Frohna, Samantha Milligan, Jacob Penney
+- Developers: Karina Anaya, Lucina de la Rosa, Sophia Frohna, Samantha Milligan, Jacob Penney \
 Develops the specifications and requirements for the software. Developers also test and improve the application for the clients.
-- Testers/Users: Developers and Customers
+- Testers/Users: Developers and Customers \
 This group will test and use the application for debug, usability, and consistency. They would also provide input for improvements for the applications making it more user friendly.
-- Similar Applications: Spotify, Shazam
+- Similar Applications: Spotify, Shazam \
 Other applications that are similar to our music based application will help us see the differences and see what we can improve on the platforms. 
 
 ## 3. Functional requirements (features)
