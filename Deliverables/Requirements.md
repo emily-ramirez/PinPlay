@@ -128,8 +128,8 @@ Consumer Segment:
 Priority: 3\
 Estimated Hours: 4
 
-**User story 2**: As a user, I want to filter songs by genre so I can only listen to genres I am interested in.\
-Priority: 3\
+**User story 2**: As a business owner, I want to edit my playlists so that I can make changes where I see fit.\
+Priority: 2\
 Estimated Hours: 6
 
 **User story 3**: \
