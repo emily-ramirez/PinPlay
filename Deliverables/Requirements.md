@@ -33,11 +33,16 @@ Consumer Segment:
 
 ## 4. Non-functional requirements
 
-1. Numbered List
+1. Usability: Users will be able to interact with the system easily. A user who has never seen our product before will be able to generate a playlist without needing an explanation.
+2. Security: Users’ login information will be communicated securely from the application to Spotify. Users’ login information will not be shared with other applications.
+3. Affordability: Users will not be expected to pay any fees or subscriptions. A user who already possesses Spotify Premium will be able to access their Spotify Premium account without additional payments to our app.
+4. Reliability: The application will be consistently usable and bugs will be infrequent. Users will be able to access the application at all hours except when down for maintenance.
+5. Variety: Users will benefit from variety and randomness in the generation of playlists. A user will be able to generate two unique playlists within the same genre by modifying other filters.
+6. Performance: Playlists will generate quickly without straining the server or users’ computers. Users will be able to run another app concurrently without straining their CPU.
 
 
 ## 5. MVP
-
+Our minimum viable product will be a web application that can generate and save a playlist based on a user’s location and input filters to a user’s Spotify library. The filters will be added one at a time as team members complete the implementation. We will validate the playlist generation features by testing the generator under different conditions and filters that we input. We will validate the save feature by logging into a Spotify account through the web app and saving a playlist to the account’s library.
 
 
 ## 6. Use cases
