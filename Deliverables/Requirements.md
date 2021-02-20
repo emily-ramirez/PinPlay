@@ -57,83 +57,131 @@ Our minimum viable product will be a web application that can generate and save 
 
 ## 6. Use cases
 ### 6.1. Use case diagram
-![](img to embed goes here)
+![Use Case Diagram](media/requirements/Use_Case_Diagram.png)
 
 
 ### 6.2. Use case descriptions
 
-**Use Case 1**: \
-**Actor**: \
-**Description**: \
-**Preconditions**: \
-**Postconditions**: \
-**Main Flow**: \
-1. 
-**Alternative Flow**: \
-#\
-**User Interface Sketch**:
+**Use Case 1**: Turn on/off filters\
+**Actor**: Business Owner\
+**Description**: The business owner will be able to turn filters on/off on already created playlists\
+**Preconditions**: A playlist has already been created\
+**Postconditions**: The playlist will be played with the specified filters\
+**Main Flow**: 
+1. The business owner selects the “filters” option
+2. The system shows a list of filters for the business to select
+3. The business owner selects the filters they want applied to the playlist.
+4. The system asks the business owner to confirm.
+5. The business owner confirms
+6. The system plays the playlist with the selected filters
+
+**Alternative Flow**: 
+a. At any time, the business owner cancels the operation 
+1. The system cancels all the operations done so far 
+
+b. There are no songs associated with the selected filter(s)
+1. The system notifies the user
+2. the operation does not create any modifications
+
+**User Interface Sketch**:\
 ![Sketch_1](media/requirements/Sketch_1.png)
 
-**Use Case 2**: \
-**Actor**: \
-**Description**: \
-**Preconditions**: \
-**Postconditions**: \
-**Main Flow**: \
-1. 
-**Alternative Flow**: \
-#\
-**User Interface Sketch**:
-![](img to embed goes here)
+**Use Case 2**: Create playlists\
+**Actor**: Business Owner\
+**Description**: The business owner will be able to create playlists\
+**Preconditions**: The business owner is logged into the system\
+**Postconditions**: A playlist is created on the account\
+**Main Flow**: 
+1. The business owner selects the “create playlist” option
+2. The system shows a list of genres, moods, and other options
+3. The business owner selects the options for the playlist
+4. The system asks for the length of the playlist
+5. The business owner inputs the length 
+6. The system asks the business owner to confirm 
+7. The business owner confirms
+8. The system creates a playlist on the business owner’s account
 
-**Use Case 3**: \
-**Actor**: \
-**Description**: \
-**Preconditions**: \
-**Postconditions**: \
-**Main Flow**: \
-1. 
-**Alternative Flow**: \
-#\
-**User Interface Sketch**:
-![](img to embed goes here)
+**Alternative Flow**: 
+a. At any time, the business owner cancels the operation 
+1. The system cancels all the operations done so far
 
-**Use Case 4**: \
-**Actor**: \
-**Description**: \
-**Preconditions**: \
-**Postconditions**: \
-**Main Flow**: \
-1. 
-**Alternative Flow**: \
-#\
 **User Interface Sketch**:
-![](img to embed goes here)
+![Sketch_2](media/requirements/Sketch_2.png)
 
-**Use Case 5**: \
-**Actor**: \
-**Description**: \
-**Preconditions**: \
-**Postconditions**: \
-**Main Flow**: \
-1. 
-**Alternative Flow**: \
-#\
+**Use Case 3**: Select Business Location\
+**Actor**: Business owner\
+**Description**: The business owner will designate where the business is located\
+**Preconditions**: The business owner is logged into the system\
+**Postconditions**: The business will have a location\
+**Main Flow**:
+1. The business owner selects the “set business location” option
+2. The system asks the business owner for location details
+3. The business owner informs the system of their business location
+4. The system asks the business owner to confirm
+5. The business owner confirms
+6. The system updates the business location
+
+**Alternative Flow**:
+a. At any time, the business owner cancels the operation 
+1. The system cancels all the operations done so far
+
 **User Interface Sketch**:
-![](img to embed goes here)
+![Sketch_3](media/requirements/Sketch_3.png)
 
-**Use Case 6**: \
-**Actor**: \
-**Description**: \
-**Preconditions**: \
-**Postconditions**: \
-**Main Flow**: \
-1. 
+**Use Case 4**: Review Playlists\
+**Actor**: Customer\
+**Description**: The customer will review a playlist\
+**Preconditions**: The customer is on a playlist\
+**Postconditions**: The playlist will have an updated review\
+**Main Flow**: 
+1. The customer selects the “Rate Playlist” option
+2. The system asks the customer for review information
+3. The customer provides the system with review information
+4. The system asks the customer to confirm
+5. The customer confirms
+6. The system updates the reviews on the playlist
+
 **Alternative Flow**: \
-#\
-**User Interface Sketch**:
-![](img to embed goes here)
+a. At any time, the business owner cancels the operation 
+1. The system cancels all the operations done so far
 
+**User Interface Sketch**:
+![Sketch_4](media/requirements/Sketch_4.png)
+
+**Use Case 5**: Select Near Location\
+**Actor**: Customer\
+**Description**: The customer will select a location to find playlists made near them\
+**Preconditions**: The customer is logged into the system\
+**Postconditions**: Playlists made near them will be displayed\
+**Main Flow**: 
+1. The customer selects a city from a list 
+2. The system asks the customer to confirm 
+3. The customer confirms
+4. The system displays playlists from the selected location
+ 
+**Alternative Flow**: \
+a. At any time, the business owner cancels the operation 
+1. The system cancels all the operations done so far
+
+**User Interface Sketch**:
+![Sketch_5](media/requirements/Sketch_5.png)
+
+**Use Case 6**: Follow Profiles\
+**Actor**: User\
+**Description**: A user will be able to follow other user profiles\
+**Preconditions**: The user is logged into the system and is on a different user’s profile\
+**Postconditions**: The user will be following a profile\
+**Main Flow**: 
+1. The user selects the “Follow User” or “Unfollow User” option
+2. The system updates who the user is following
+3. The system updates the number of users following the profile
+
+**Alternative Flow**: \
+a. At any time, the business owner cancels the operation 
+1. The system cancels all the operations done so far
+
+**User Interface Sketch**:
+![Sketch_6](media/requirements/Sketch_6.png)
 
 # 7. User stories
 
