@@ -65,7 +65,7 @@ Our minimum viable product will be a web application that can generate and save 
 5. The business owner confirms
 6. The system plays the playlist with the selected filters
 
-**Alternative Flow**: 
+**Alternative Flow**:\
 a. At any time, the business owner cancels the operation 
 1. The system cancels all the operations done so far 
 
@@ -91,7 +91,7 @@ b. There are no songs associated with the selected filter(s)
 7. The business owner confirms
 8. The system creates a playlist on the business owner’s account
 
-**Alternative Flow**: 
+**Alternative Flow**:\
 a. At any time, the business owner cancels the operation 
 1. The system cancels all the operations done so far
 
@@ -111,7 +111,7 @@ a. At any time, the business owner cancels the operation
 5. The business owner confirms
 6. The system updates the business location
 
-**Alternative Flow**:
+**Alternative Flow**:\
 a. At any time, the business owner cancels the operation 
 1. The system cancels all the operations done so far
 
