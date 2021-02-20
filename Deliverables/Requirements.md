@@ -24,10 +24,22 @@ Consumer Segment:
 
 
 ## 2. Stakeholders
- 
+
+- Developers: Karina Anaya, Lucina de la Rosa, Sophia Frohna, Samantha Milligan, Jacob Penney \
+Develops the specifications and requirements for the software. Developers also test and improve the application for the clients.
+- Testers/Users: Developers and Customers \
+This group will test and use the application for debug, usability, and consistency. They would also provide input for improvements for the applications making it more user friendly.
+- Similar Applications: Spotify, Shazam \
+Other applications that are similar to our music based application will help us see the differences and see what we can improve on the platforms. 
 
 ## 3. Functional requirements (features)
 
+1. Users can enter their location into the system.
+2. Users can enable explicit filters for playlists. 
+3. Users can view and follow other playlists created by other users. 
+4. User can sync new playlists with current Spotify account.
+5. Software will create certain playlists based on user preferences.
+6. Weather for the location is entered through the system and will curate playlists.
 
 ## 4. Non-functional requirements
 
