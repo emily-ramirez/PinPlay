@@ -1,5 +1,3 @@
-
-
 # Requirements
 
 *Group 06 – `PinPlay`\
