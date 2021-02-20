@@ -47,7 +47,7 @@ Our minimum viable product will be a web application that can generate and save 
 
 ## 6. Use cases
 ### 6.1. Use case diagram
-![](img to embed goes here)
+![Use Case Diagram](media/requirements/Use_Case_Diagram.png)
 
 
 ### 6.2. Use case descriptions
