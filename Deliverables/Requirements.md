@@ -209,13 +209,13 @@ Estimated Hours: 4
 Priority: 3\
 Estimated Hours: 5
 
-**User story 7**: \
-Priority: \
-Estimated Hours: 
+**User story 7**: As a user, I want to create a profile so that I can save my playlists and preferences.\
+Priority: 3\
+Estimated Hours: 6
 
-**User story 8**: \
-Priority: \
-Estimated Hours: 
+**User story 8**: As a user, I want to share playlists that I create and discover so that others easily access them.\
+Priority: 2\
+Estimated Hours: 4
 
 **User story 9**: \
 Priority: \
