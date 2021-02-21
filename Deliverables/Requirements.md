@@ -234,5 +234,5 @@ Priority: \
 Estimated Hours: 
 
 ## 8. Trello Issue Tracker
-Must include Backlog, To Do in the Current Release, Doing, and Done
-![](img to embed goes here)
+Link: https://trello.com/b/7oDcPr7u/issue-tracker
+![](https://github.com/emily-ramirez/PinPlay/blob/jmp458_requirements_patch/Deliverables/media/requirements/TrelloIssueTracker.png)
