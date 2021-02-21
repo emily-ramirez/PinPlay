@@ -223,7 +223,7 @@ Estimated Hours:
 
 **User story 10**: As a business owner, I want to select my customer audience so I can find genres that would be appealing to them.\
 Priority: 2\
-Estimated Hours:6 
+Estimated Hours: 6 
 
 **User story 11**: As a user, I want to be able to see what others around me are listening to so that I can keep up with trends.\
 Priority: 2\
