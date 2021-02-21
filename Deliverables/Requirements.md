@@ -229,9 +229,9 @@ Estimated Hours:
 Priority: \
 Estimated Hours: 
 
-**User story 12**: \
-Priority: \
-Estimated Hours: 
+**User story 12** As a barista, I want to be able to play new, fun music, so me and my customers don't get bored.
+Priority: 2
+Estimated hours: 6
 
 ## 8. Trello Issue Tracker
 Link: https://trello.com/b/7oDcPr7u/issue-tracker
