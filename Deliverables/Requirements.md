@@ -235,4 +235,4 @@ Estimated Hours:
 
 ## 8. Trello Issue Tracker
 Link: https://trello.com/b/7oDcPr7u/issue-tracker
-![](https://path/to/img)
+![](https://github.com/emily-ramirez/PinPlay/blob/jmp458_requirements_patch/Deliverables/media/requirements/TrelloIssueTracker.png)
