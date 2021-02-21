@@ -217,9 +217,9 @@ Estimated Hours: 6
 Priority: 2\
 Estimated Hours: 4
 
-**User story 9**: \
-Priority: \
-Estimated Hours: 
+**User story 9**: As a user, I want to follow other users so that I can stay updated with profiles that appeal to me.\
+Priority: 2\
+Estimated Hours: 4
 
 **User story 10**: As a business owner, I want to select my customer audience so I can find genres that would be appealing to them.\
 Priority: 2\
