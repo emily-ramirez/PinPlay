@@ -221,18 +221,18 @@ Estimated Hours: 4
 Priority: \
 Estimated Hours: 
 
-**User story 10**: \
-Priority: \
-Estimated Hours: 
+**User story 10**: As a business owner, I want to select my customer audience so I can find genres that would be appealing to them.\
+Priority: 2\
+Estimated Hours:6 
 
-**User story 11**: \
-Priority: \
-Estimated Hours: 
+**User story 11**: As a user, I want to be able to see what others around me are listening to so that I can keep up with trends.\
+Priority: 2\
+Estimated Hours: 4 
 
 **User story 12**: \
 Priority: \
 Estimated Hours: 
 
 ## 8. Trello Issue Tracker
-Must include Backlog, To Do in the Current Release, Doing, and Done
-![](img to embed goes here)
+Link: https://trello.com/b/7oDcPr7u/issue-tracker
+![](https://github.com/emily-ramirez/PinPlay/blob/master/Deliverables/media/requirements/TrelloIssueTracker.png)
