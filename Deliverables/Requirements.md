@@ -235,4 +235,4 @@ Estimated Hours:
 
 ## 8. Trello Issue Tracker
 Link: https://trello.com/b/7oDcPr7u/issue-tracker
-![](img to embed goes here)
+![](https://path/to/img)
