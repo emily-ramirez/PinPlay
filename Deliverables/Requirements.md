@@ -57,7 +57,7 @@ Our minimum viable product will be a web application that can generate and save 
 
 ## 6. Use cases
 ### 6.1. Use case diagram
-![Use Case Diagram](media/requirements/Use_Case_Diagram.png)
+![use case diagram](media/requirements/interface_sketches/use_case_diagram.png)
 
 
 ### 6.2. Use case descriptions
@@ -84,7 +84,7 @@ b. There are no songs associated with the selected filter(s)
 2. the operation does not create any modifications
 
 **User Interface Sketch**:\
-![Sketch_1](media/requirements/Sketch_1.png)
+![sketch_1](media/requirements/interface_sketches/sketch_1.png)
 
 **Use Case 2**: Create playlists\
 **Actor**: Business Owner\
@@ -106,7 +106,7 @@ a. At any time, the business owner cancels the operation
 1. The system cancels all the operations done so far
 
 **User Interface Sketch**:
-![Sketch_2](media/requirements/Sketch_2.png)
+![sketch_2](media/requirements/interface_sketches/sketch_2.png)
 
 **Use Case 3**: Select Business Location\
 **Actor**: Business owner\
@@ -126,7 +126,7 @@ a. At any time, the business owner cancels the operation
 1. The system cancels all the operations done so far
 
 **User Interface Sketch**:
-![Sketch_3](media/requirements/Sketch_3.png)
+![sketch_3](media/requirements/interface_sketches/sketch_3.png)
 
 **Use Case 4**: Review Playlists\
 **Actor**: Customer\
@@ -146,7 +146,7 @@ a. At any time, the business owner cancels the operation
 1. The system cancels all the operations done so far
 
 **User Interface Sketch**:
-![Sketch_4](media/requirements/Sketch_4.png)
+![sketch_4](media/requirements/interface_sketches/sketch_4.png)
 
 **Use Case 5**: Select Near Location\
 **Actor**: Customer\
@@ -164,7 +164,7 @@ a. At any time, the business owner cancels the operation
 1. The system cancels all the operations done so far
 
 **User Interface Sketch**:
-![Sketch_5](media/requirements/Sketch_5.png)
+![sketch_5](media/requirements/interface_sketches/sketch_5.png)
 
 **Use Case 6**: Follow Profiles\
 **Actor**: User\
@@ -181,7 +181,7 @@ a. At any time, the business owner cancels the operation
 1. The system cancels all the operations done so far
 
 **User Interface Sketch**:
-![Sketch_6](media/requirements/Sketch_6.png)
+![sketch_6](media/requirements/interface_sketches/sketch_6.png)
 
 # 7. User stories
 
@@ -201,13 +201,13 @@ Estimated Hours:
 Priority: \
 Estimated Hours: 
 
-**User story 5**: \
-Priority: \
-Estimated Hours: 
+**User story 5**: As a business owner, I want to filter the age of my audience so that my customers listen to music from their time period.\
+Priority: 1\
+Estimated Hours: 4
 
-**User story 6**: \
-Priority: \
-Estimated Hours: 
+**User story 6**: As a customer, I want to listen to a business’s playlists so that I know what music they play before I go to their place.\
+Priority: 3\
+Estimated Hours: 5
 
 **User story 7**: \
 Priority: \
