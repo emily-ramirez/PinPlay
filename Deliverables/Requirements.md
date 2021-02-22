@@ -193,13 +193,13 @@ Estimated Hours: 4
 Priority: 2\
 Estimated Hours: 6
 
-**User story 3**: \
-Priority: \
-Estimated Hours: 
+**User story 3**: As a business owner, I want to select my business location so that customers can find playlists near them.\
+Priority: 3\
+Estimated Hours: 4
 
-**User story 4**: \
-Priority: \
-Estimated Hours: 
+**User story 4**: As a customer, I want to review playlists so that I can give businesses feedback.\
+Priority: 2\
+Estimated Hours: 6
 
 **User story 5**: As a business owner, I want to filter the age of my audience so that my customers listen to music from their time period.\
 Priority: 1\
@@ -229,9 +229,9 @@ Estimated Hours: 6
 Priority: 2\
 Estimated Hours: 4 
 
-**User story 12**: \
-Priority: \
-Estimated Hours: 
+**User story 12**: As a barista, I want to be able to play new, fun music, so me and my customers don't get bored.\
+Priority: 2\
+Estimated Hours: 6
 
 ## 8. Trello Issue Tracker
 Link: https://trello.com/b/7oDcPr7u/issue-tracker
