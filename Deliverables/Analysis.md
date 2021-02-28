@@ -23,4 +23,4 @@ In our system, users that are **business** owners will be able to turn off/on **
   6. Users want to view other user **profiles** to collaborate and share **playlists**.
 
 ## 2. Model
-![](/media/analysis/model.png)
+![](/media/analysis/Model.png)
