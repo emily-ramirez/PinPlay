@@ -26,6 +26,7 @@ class CreatePlaylist:
 # NEED RESEARCH: 
     # 1. how to get user_ID and token (Spotify)
     # 2. how to verify if user_ID and token are valid (Spotify)
+    #    - https://developer.spotify.com/documentation/general/guides/authorization-guide/
     # 3. - how to call Shazam API, 
     #    - what it can return
     #    - what format the return comes in 
