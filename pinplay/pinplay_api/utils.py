@@ -1,5 +1,9 @@
-import requests
+# modules
 import json
+import requests
+
+# external functionality
+import csv_utils.py
 
 
 # Notes:
@@ -32,13 +36,9 @@ import json
     #    - what it can return
     #    - what format the return comes in
 
-def validate_user( user_info ):
-    pass
-    # result = call on Spotify API
-        # need research
-    
-    # return request == GOOD_HTTP_RESPONSE && auth_token == GOOD_HTTP_RESPONSE
- 
+
+
+
 def create_playlist( user_info, playlist_info, settings_flags=None ):
     # initially creates empty playlist and add songs to playlist
 
@@ -77,7 +77,7 @@ def create_playlist( user_info, playlist_info, settings_flags=None ):
     # get song list from shazam
         # code: song_list = find_songs( settings_flags )
         # need to pass song_list into get_song_uris, currently hardcoded
-    song_list = song_list = [('Crew', 'Brent Faiyaz'), ('Si Una Vez', 'Selena')]
+    song_list = [('Crew', 'Brent Faiyaz'), ('Si Una Vez', 'Selena')]
 
     # search for song uri using song info
     song_uris_list = get_song_uris(song_list, user_info)
@@ -86,6 +86,9 @@ def create_playlist( user_info, playlist_info, settings_flags=None ):
     add_songs(song_uris_list, playlist_id, user_info, playlist_info)
 
     return 'Created new playlist'
+
+
+
 
 def find_songs( location )
     pass
@@ -108,6 +111,9 @@ def find_songs( location )
 
     
     # return song_list
+
+
+
 
 def get_song_uris(song_list, user_info):
     # collects all uris using song info and returns list
@@ -142,6 +148,7 @@ def get_song_uris(song_list, user_info):
         song_uris_list.append(song_uri)
 
     return song_uris_list
+
 
 def add_songs( song_uris_list, playlist_id, user_info, playlist_info ):
     # add songs to any playlist using playlist id
