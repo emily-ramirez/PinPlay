@@ -5,6 +5,14 @@ Trello: https://trello.com/b/7oDcPr7u/issue-tracker
 Github: https://github.com/emily-ramirez/PinPlay
 
 ### 2. Implemented Requirements
+* User Stories
+    * "As a business owner, I want to edit my playlists so that I can make changes where I see fit." - Name
+    * "As a barista, I want to be able to play new, fun music, so me and my customers don't get bored."   - Name
+* Use Cases
+    * Create Playlists - Name
+* MVP Requirements 
+    * Generate and save a playlist - Name
+    * Validate the save feature by logging into a Spotify account through the web app and saving a playlist to the account’s library - Name
 
 ### 3. Adopted Technologies
 
@@ -14,6 +22,12 @@ The team used a mix of strategies to learn the technologies we adopted for the p
 ### 5. Deployment
 
 ### 6. Licensing
+
+**MIT License** 
+* [MIT License](https://choosealicense.com/licenses/mit/)
+* [Our License](../LICENSE)
+
+We chose an MIT license because we want to keep our project open source so that anybody can make any changes they want to it. We don't want to restrict people from working with the API so that it can continue to be improved. 
 
 ### 7. Readme File
 
