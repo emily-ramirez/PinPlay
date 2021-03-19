@@ -63,3 +63,23 @@ a,a:link,a:hover,a:active
     color:white;
     text-decoration: none;
 }
+
+.playlist_embedd, iframe
+{
+    padding: 2%;
+    margin: 0 auto;
+}
+
+iframe
+{
+    display: block;
+    border-style: none;
+    width: 400px;
+    height: 480px;
+}
+
+.site_button
+{
+    display: flex;
+    justify-content: center;
+}
