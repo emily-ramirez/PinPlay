@@ -41,7 +41,7 @@ const Header = () => {
         <SpotifyAuth
           redirectUri='http://localhost:3000/'
           clientID='b698366808af491eb20ed64dedd91914'
-          scopes={[Scopes.userReadPrivate, 'user-read-email', 'playlist-modify-public', 'playlist-modify-private']} // either style will work
+          scopes={['user-read-private', 'user-read-email', 'playlist-modify-public', 'playlist-modify-private']}
         />
       )}
     </div>
