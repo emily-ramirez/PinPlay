@@ -1,6 +1,8 @@
 ### 1. Introduction
 VP: Pinplay allows business owners to quickly and easily create playlists based on popular music preferences, appealing to local customer taste. 
 Our product is a web application that can generate and save a playlist. The user can log into their pre-existing Spotify account through our web app and generate a playlist customized to their liking. The playlist generated can be based on a user’s location and input filters. The playlist can then be saved to a user’s Spotify library. 
+Trello: https://trello.com/b/7oDcPr7u/issue-tracker
+Github: https://github.com/emily-ramirez/PinPlay
 
 ### 2. Implemented Requirements
 
