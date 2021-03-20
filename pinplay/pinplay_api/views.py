@@ -24,4 +24,7 @@ class PlaylistView(APIView):
 
         output = create_playlist(user_info, playlist_info)
 
-        return Response(output)
+        resp = Response(output)
+        resp['Access-Control-Allow-Origin'] = '*'
+
+        return resp
