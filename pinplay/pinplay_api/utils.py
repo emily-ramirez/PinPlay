@@ -85,7 +85,7 @@ def create_playlist( user_info, playlist_info, settings_flags=None ):
     # add all song uris to empty playlist
     add_songs(song_uris_list, playlist_id, user_info, playlist_info)
 
-    return 'Created new playlist'
+    return playlist_id
 
 
 
