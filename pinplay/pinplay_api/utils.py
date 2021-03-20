@@ -3,7 +3,7 @@ import json
 import requests
 
 # external functionality
-import csv_utils.py
+#import csv_utils.py
 
 
 # Notes:
@@ -85,13 +85,13 @@ def create_playlist( user_info, playlist_info, settings_flags=None ):
     # add all song uris to empty playlist
     add_songs(song_uris_list, playlist_id, user_info, playlist_info)
 
-    return 'Created new playlist'
+    return playlist_id
 
 
 
 
-def find_songs( location )
-    pass
+#def find_songs( location ):
+#    pass
 
     # purpose: find songs that match criteria specified by user
     # for future use: we may use more parameters/criteria than location. 
