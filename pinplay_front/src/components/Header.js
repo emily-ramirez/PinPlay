@@ -1,10 +1,18 @@
+import React from 'react';
+import {connect} from 'react-redux';
 import { SpotifyApiContext, User} from 'react-spotify-api'
 import Cookies from 'js-cookie'
+import {getID} from '../actions'
 
 import { SpotifyAuth, Scopes } from 'react-spotify-auth'
 import 'react-spotify-auth/dist/index.css'
 
-const Header = () => {
+class Header extends React.Component {
+
+  storeLogin(id){
+    this.props.getID(id)
+  }
+  render() {
   const token = Cookies.get('spotifyAuthToken')
   return (
     <div>
@@ -13,20 +21,13 @@ const Header = () => {
       <div style={{float:'right'}}>
       {token ? (
         <SpotifyApiContext.Provider value={token}>
-          { /*Your Spotify Code here*/ }
-          
           <User>
             {(user) =>
                   user && user.data ? (
                     <p>
                       <div>
+                      {this.storeLogin(user.data.id)}
                       Logged in as {user.data.display_name}
-                      </div>
-                      <div>
-                        Token: {token}
-                      </div>
-                      <div>
-                        Username: {user.data.id}
                       </div>
                     </p>
                   ) : (
@@ -50,6 +51,7 @@ const Header = () => {
     <div className="header_color2"></div>
     </div>
   )
+      }
 }
 
-export default Header;
+export default connect(null,{getID})(Header);
