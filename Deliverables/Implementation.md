@@ -41,9 +41,14 @@ We chose an MIT license because we want to keep our project open source so that 
 
 ### 8. Look and Feel
 We wanted to keep the user interface simple and usable, and pleasing to look at in a way that meshes well with the built-in Spotify API-related UI.
+
 <img width="498" alt="Screen Shot 2021-03-21 at 4 38 08 PM" src="https://user-images.githubusercontent.com/75813227/111925001-3a099000-8a64-11eb-9ab5-903d5c1150d1.png">
+
+
 Since this is not a finished product, some aspects of the visual design have not been finished. Missing visual elements have been indicated, but all the functional aspects of the UI are still in place.
+
 <img width="1245" alt="Screen Shot 2021-03-21 at 4 37 49 PM" src="https://user-images.githubusercontent.com/75813227/111925042-6c1af200-8a64-11eb-9b22-1f0a56bd9f51.png">
+
 
 ### 9. Lessons Learned
 None of us went into this project with any experience deploying complex backend code for a web application. This made the process of implementation very difficult and time consuming, with a sharp learning curve and some team members scrambling to learn web development —  on their own, in their already minimal free time, having never taken a web development class before. In retrospective, we could have benefited from realizing how monumental a task this would be sooner, and getting started on development well before D4 was even assigned. Even with the week-long extension, we struggled to find nearly enough time in our busy schedules to accomplish all of the expected tasks.
