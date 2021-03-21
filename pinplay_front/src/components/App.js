@@ -18,7 +18,7 @@ const App = () => {
       
           <div>
             <Route path="/" exact component={ShowPlaylists} />
-            <Route path="/endscreen/:id" exact component={EndScreen} />
+            
             <Route path="/filters" exact component={Filters} />
           </div>
       </Router>
@@ -38,6 +38,8 @@ const App = () => {
     URL is {user.data.external_urls.spotify}
     </div>
     <img src={user.data.images[0].url}></img>
+    
+    <Route path="/endscreen/:id" exact component={EndScreen} />
     */
   )
 };

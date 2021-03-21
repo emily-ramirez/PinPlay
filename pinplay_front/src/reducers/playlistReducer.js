@@ -1,5 +1,3 @@
-import _ from 'lodash';
-
 const INITIAL_STATE = {
   playlistID: null
 };

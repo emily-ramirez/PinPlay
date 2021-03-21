@@ -1,9 +1,7 @@
 import React from 'react';
 import {connect} from 'react-redux';
-import { SpotifyApiContext, User} from 'react-spotify-api'
 import Cookies from 'js-cookie'
 import {makePlaylist} from '../actions'
-import { SpotifyAuth, Scopes } from 'react-spotify-auth'
 import 'react-spotify-auth/dist/index.css'
 
 class PlaylistFilters extends React.Component{
@@ -29,7 +27,7 @@ class PlaylistFilters extends React.Component{
             Your generated playlist:
           </div>
           <iframe class="embedded-playlist" src={this.getPlaylistLink()}
-                allowtransparency="true" allow="encrypted-media">
+                allowtransparency="true" allow="encrypted-media" title={this.props.playlistID}>
         </iframe>
         </div>
       ) : (
@@ -43,6 +41,7 @@ class PlaylistFilters extends React.Component{
       ) : (
       <div>
         Please log in to continue.
+        NOTE: You may need to reload the page when you log in.
       </div>
       )}
       

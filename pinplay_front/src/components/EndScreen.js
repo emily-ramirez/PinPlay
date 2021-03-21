@@ -1,6 +1,5 @@
 import React from 'react';
 import {connect} from 'react-redux';
-import {Link} from 'react-router-dom';
 //THIS IS A MESSS
 //CURRENTLY UNUSED
 class EndScreen extends React.Component{

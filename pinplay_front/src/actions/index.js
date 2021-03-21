@@ -1,5 +1,4 @@
 import django from '../apis/django';
-import history from '../history';
 
 export const makePlaylist = (id, token) => async dispatch => {
   const response = await django.get('/pinplay_api/', {params:{
