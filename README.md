@@ -1,4 +1,4 @@
-# Pinplay
+# Pinplay 0.1.0
 Pinplay is a web application designed to automatically generate playlists based on popular music in their area. Unlike Spotify's collection of top hits from a country, our product designs playlists catered from city to city so that every person and region feels at home with our music.
 
 ## Status 
