@@ -34,6 +34,10 @@ The team used a mix of strategies to learn the technologies we adopted for the p
 We chose an MIT license because we want to keep our project open source so that anybody can make any changes they want to it. We don't want to restrict people from working with the API so that it can continue to be improved. 
 
 ### 7. Readme File
+* [README](../README.md)
+* [CONTRIBUTING](../CONTRIBUTING.md)
+* [LICENSE](../LICENSE)
+* [CODE OF CONDUCT](../CODE_OF_CONDUCT.md)
 
 ### 8. Look and Feel
 
