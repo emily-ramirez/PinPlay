@@ -6,7 +6,6 @@ Github: https://github.com/emily-ramirez/PinPlay
 
 ### 2. Implemented Requirements
 * User Stories
-    * "As a business owner, I want to edit my playlists so that I can make changes where I see fit." - Name
     * "As a barista, I want to be able to play new, fun music, so me and my customers don't get bored."   - Name
 * Use Cases
     * Create Playlists - Name
