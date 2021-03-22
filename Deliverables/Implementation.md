@@ -57,5 +57,5 @@ For the second release, we will learn from our time constraints on the first, an
 
 ### 10. Demo
 Video demo can be found here:
-https://drive.google.com/file/d/1JUQrVdBWEZv6-_RgsGXomTA7XyNGTMtS/view?usp=sharing
+https://youtu.be/Xt7rj18fxn4
 
