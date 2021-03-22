@@ -24,7 +24,9 @@ Our project also involved the Spotify API, since Spotify is the app we’re gene
 The team used a mix of strategies to learn the technologies we adopted for the project. One of these strategies was using Mix & Match Coursera online courses to learn skills and technologies that we could apply to making our app. Another valuable resource to us was a number of online tutorials and crash courses, especially various video series on youtube. We also made sure to use our unique backgrounds and skill sets to our advantage, applying our existing skills where best suited, and helped train each other on technologies that we had strengths in.
 
 ### 5. Deployment
-To deploy our application to production, we serve it as a static application on a linux-based web host using NPM. Accordingly, we procured web hosting services and a domain name, used a File Transfer Protocol application to move our project's production directory to our host, implemented advised production settings for a Django server, and used NPM to create an optimized production build to be used on the domain and start our server.  
+To deploy our application to production, we serve it as a static application on a linux-based web host using NPM. Accordingly, we procured web hosting services and a domain name, used a File Transfer Protocol application to move our project's production directory to our host, implemented advised production settings for a Django server, and used NPM to create an optimized production build to be used on the domain and start our server.
+
+Our application in production is located at http://pinplay.me/.
 
 ### 6. Licensing
 
