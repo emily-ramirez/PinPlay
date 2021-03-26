@@ -1,29 +1,37 @@
 import React from 'react';
-import {Link} from 'react-router-dom';
-
+import {connect} from 'react-redux';
+//THIS IS A MESSS
+//CURRENTLY UNUSED
 class EndScreen extends React.Component{
 
   render() {
+    console.log(this.props.playlistID)
+    const playlistLink = `https://open.spotify.com/embed/playlist/${this.props.playlistID}`
     return(
       <div>
 
         <div class="playlist_embedd">
-        <iframe class="embedded-playlist" src="https://open.spotify.com/embed/playlist/37i9dQZF1DWWEJlAGA9gs0"
-                allowtransparency="true" allow="encrypted-media">
-        </iframe>
+        
         </div>
 
         
-        <div class="site_button">
-        <button type="button">
-            <Link to={`/`} className="ui button primary">
-              Update Playlist
-            </Link>
-        </button>
-        </div>
+        
       </div>
     )
   }
 }
 
-export default EndScreen;
+const mapStateToProps = (state, ownProps) => {
+  return{playlistID:ownProps.match.params.id};
+};
+
+export default connect(mapStateToProps, null)(EndScreen);
+
+/*
+<div class="site_button">
+        <button type="button">
+            <Link to={`/`} className="ui button primary">
+              Update Playlist
+            </Link>
+        </button>
+*/

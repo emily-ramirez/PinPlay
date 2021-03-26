@@ -1,8 +1,9 @@
 import React from 'react'
-import {BrowserRouter, Route, Link} from 'react-router-dom';
+import {Router, Route} from 'react-router-dom';
 import ShowPlaylists from './ShowPlaylists';
 import EndScreen from './EndScreen';
-import PlaylistFilters from './Filters';
+import Filters from './Filters';
+import history from '../history';
 
 
 import Header from './Header';
@@ -12,14 +13,15 @@ import Header from './Header';
 const App = () => {
   return (
     <div>
-      <Header/>
-      <BrowserRouter>
-        <div>
-          <Route path="/" exact component={ShowPlaylists} />
-          <Route path="/endscreen" exact component={EndScreen} />
-          <Route path="/filters" exact component={PlaylistFilters} />
-        </div>
-      </BrowserRouter>
+      <Router history={history}>
+        <Header/>
+      
+          <div>
+            <Route path="/" exact component={ShowPlaylists} />
+            
+            <Route path="/filters" exact component={Filters} />
+          </div>
+      </Router>
       
     </div>
     
@@ -36,6 +38,8 @@ const App = () => {
     URL is {user.data.external_urls.spotify}
     </div>
     <img src={user.data.images[0].url}></img>
+    
+    <Route path="/endscreen/:id" exact component={EndScreen} />
     */
   )
 };
