@@ -3,7 +3,7 @@ import json
 import requests
 
 # external functionality
-import csv_utils.py
+#import csv_utils.py
 
 
 # Notes:
@@ -90,8 +90,8 @@ def create_playlist( user_info, playlist_info, settings_flags=None ):
 
 
 
-def find_songs( location )
-    pass
+#def find_songs( location ):
+#    pass
 
     # purpose: find songs that match criteria specified by user
     # for future use: we may use more parameters/criteria than location. 
