@@ -3,6 +3,9 @@
 ## Description
 
 ## Architecture
+![image](https://user-images.githubusercontent.com/78055520/112770369-59139f00-8fdb-11eb-8e65-3be907c7ede1.png)
+
+  This design represents an attempt to diagram the PinPlay system, as it currently is, in a language/technology-agnostic way. Upon visiting pinplay.me, the user is greeted with the user interface and has the ability, through it, to navigate to Spotify’s login interface to login to their account. This is done via communication between the client web site, which itself is stored and operated from a different location than the backend server which supports it, and Spotify’s API. After the user logs in via the Spotify login interface, the web app collects information about the user from the Spotify API which the backend server, hosting our application’s business logic, can use to fulfill it’s functionalities. The web app communicates this information to the backend server, which structures the data and creates a request to the Spotify API with it. An empty playlist is generated in the user’s account. The backend uses information given back by the Spotify API to then add tracks to the empty playlist. Pertinent information is returned from the Spotify API about this playlist, which is structured by logic in the backend server and given to the web client. Finally, the web page embeds the created playlist to display to the user.   
 
 ## Class Diagram
 
