@@ -2,6 +2,8 @@
 
 ## Description
 
+    Pinplay is a web application which seeks to expand upon Spotify’s popular playlist functionality. The system intends to be able to draw upon stores of data from Shazam, another application which can be used to identify music via a device with a microphone, which document the most popular music in a given city and subsequently generate a playlist in a user’s premium Spotify account using those popular songs. The application will be able to accept a city and a set of filters which it can use to modify the set of tracks which will be added to the playlist, including filtering by the genre of the track or whether or not the track is explicit in content. 
+
 ## Architecture
 ![image](https://user-images.githubusercontent.com/78055520/112770369-59139f00-8fdb-11eb-8e65-3be907c7ede1.png)
 
