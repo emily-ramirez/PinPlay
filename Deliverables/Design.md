@@ -33,7 +33,7 @@ a. At any point, user may cancel operation
 **Design Pattern (Behavioral) - Command**\
 The Axios object encapsulates all of the information from the backend so that it can accessed by the front end easily.\
 ![Class Diagram](media/design/command_pattern.png)\
-Playlist: https://github.com/samantha-milligan/heroku/blob/1dc08ae01d93746a8937c520a9ee9a2287402109/pinplay_api/views.py\
+Playlist: https://github.com/samantha-milligan/heroku/blob/a12535afa9f77e134e4fe15d9dc37ceec00b0e7d/pinplay_api/views.py \
 Axios: https://github.com/emily-ramirez/PinPlay/blob/master/pinplay_front/src/apis/django.js \
 FilterList: https://github.com/emily-ramirez/PinPlay/blob/master/pinplay_front/src/components/Filters.js \\
 
