@@ -40,7 +40,7 @@ class Header extends React.Component {
       ) : (
         // TODO: Replace 'localhost:3000' with 'pinplay.me'
         <SpotifyAuth
-          redirectUri='http://localhost:3000/'
+          redirectUri='http://pinplay.me/'
           clientID='b698366808af491eb20ed64dedd91914'
           scopes={['user-read-private', 'user-read-email', 'playlist-modify-public', 'playlist-modify-private']}
         />
