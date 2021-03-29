@@ -9,7 +9,7 @@
 
 ## Class Diagram
 
-![a54pLUIAAu0TQGxo3waMAAIQgAAEIACBlgksW7bMcTpXy0bocfecztVj4zN1CHSYAGJDh43L1CAAAQhAAAIQgAAEIAABCEAAAm0Q](https://user-images.githubusercontent.com/75813227/112770334-2c5f8780-8fdb-11eb-8129-ca3f1bdf5508.png)
+![class diagram](media/design/classdiagram.png)
 
 ## Sequence Diagram
 Use case: User Login
