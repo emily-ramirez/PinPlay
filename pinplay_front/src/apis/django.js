@@ -4,4 +4,3 @@ import axios from 'axios';
 export default axios.create({
     baseURL: 'https://radiant-anchorage-77650.herokuapp.com/'
 });
-
