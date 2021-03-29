@@ -35,7 +35,7 @@ The Axios object encapsulates all of the information from the backend so that it
 ![Class Diagram](media/design/command_pattern.png)\
 Playlist: https://github.com/samantha-milligan/heroku/blob/a12535afa9f77e134e4fe15d9dc37ceec00b0e7d/pinplay_api/views.py \
 Axios: https://github.com/emily-ramirez/PinPlay/blob/master/pinplay_front/src/apis/django.js \
-FilterList: https://github.com/emily-ramirez/PinPlay/blob/master/pinplay_front/src/components/Filters.js \\
+FilterList: https://github.com/emily-ramirez/PinPlay/blob/master/pinplay_front/src/components/Filters.js \
 
 **Design Pattern (Structural) - Flyweight**\
 When you use create() on Axios with a baseURL, this allows the app to have an absolute URL for every request. This design pattern fits because we do not have to keep creating a object every single time a request is made. \
