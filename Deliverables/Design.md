@@ -11,7 +11,7 @@
 
 ## Class Diagram
 
-![a54pLUIAAu0TQGxo3waMAAIQgAAEIACBlgksW7bMcTpXy0bocfecztVj4zN1CHSYAGJDh43L1CAAAQhAAAIQgAAEIAABCEAAAm0Q](https://user-images.githubusercontent.com/75813227/112770334-2c5f8780-8fdb-11eb-8129-ca3f1bdf5508.png)
+![class diagram](media/design/classdiagram.png)
 
 ## Sequence Diagram
 Use case: User Login
@@ -35,14 +35,14 @@ a. At any point, user may cancel operation
 **Design Pattern (Behavioral) - Command**\
 The Axios object encapsulates all of the information from the backend so that it can accessed by the front end easily.\
 ![Class Diagram](media/design/command_pattern.png)\
-Playlist: https://github.com/samantha-milligan/heroku/blob/1dc08ae01d93746a8937c520a9ee9a2287402109/pinplay_api/views.py\
+Playlist: https://github.com/samantha-milligan/heroku/blob/a12535afa9f77e134e4fe15d9dc37ceec00b0e7d/pinplay_api/views.py \
 Axios: https://github.com/emily-ramirez/PinPlay/blob/master/pinplay_front/src/apis/django.js \
-FilterList: https://github.com/emily-ramirez/PinPlay/blob/master/pinplay_front/src/components/Filters.js \\
+FilterList: https://github.com/emily-ramirez/PinPlay/blob/master/pinplay_front/src/components/Filters.js \
 
 **Design Pattern (Structural) - Flyweight**\
 When you use create() on Axios with a baseURL, this allows the app to have an absolute URL for every request. This design pattern fits because we do not have to keep creating a object every single time a request is made. \
 ![Class Diagram](media/design/flyweight_pattern.png)\
-Django: https://github.com/emily-ramirez/PinPlay/blob/master/pinplay_front/src/apis/django.js
+Axios: https://github.com/emily-ramirez/PinPlay/blob/master/pinplay_front/src/apis/django.js
 
 ## Design Principles
 Because of the way our project is currently set up, we don’t need to follow a lot of the SOLID principles; principles like the Open/Closed Principle, Liskov Substitution Principle, Interface Segregation Principle, and the Dependency Inversion principle are not needed because we currently do not have any classes extending other classes or declaring other classes and then using functions from them; as a result the principles for these cannot be applied. However, the one SOLID principle that still does apply to our code is the Single Responsibility Principle. With the Single Responsibility Principle, we are making sure that each class is only in charge of one thing: each class is in charge of only things directly related to it and only has functions relating to said class. For example, while playlist creation behavior was once in the class that also handled get requests, it has now been put into its own playlist specific class.
