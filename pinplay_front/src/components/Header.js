@@ -13,6 +13,11 @@ class Header extends React.Component {
     this.props.getID(id)
   }
 
+  logOut() {
+    Cookies.remove('spotifyAuthToken')
+    window.location.reload()
+  }
+
   render() {
   const token = Cookies.get('spotifyAuthToken')
   return (
@@ -29,6 +34,9 @@ class Header extends React.Component {
                       <div>
                       {this.storeLogin(user.data.id)}
                       Logged in as {user.data.display_name}
+                      <button type="button" onClick={this.logOut}>
+                        Log Out
+                      </button>
                       </div>
                     </p>
                   ) : (
@@ -41,7 +49,7 @@ class Header extends React.Component {
       ) : (
         // TODO: Replace 'localhost:3000' with 'pinplay.me'
         <SpotifyAuth
-          redirectUri='http://pinplay.me/'
+          redirectUri='http://localhost:3000/'
           clientID='b698366808af491eb20ed64dedd91914'
           scopes={['user-read-private', 'user-read-email', 'playlist-modify-public', 'playlist-modify-private']}
         />
