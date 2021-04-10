@@ -1,21 +1,23 @@
 import React from 'react';
 import {connect} from 'react-redux';
-//THIS IS A MESSS
-//CURRENTLY UNUSED
 class EndScreen extends React.Component{
 
+  constructor(props) {
+    super(props)
+  }
   render() {
     console.log(this.props.playlistID)
     const playlistLink = `https://open.spotify.com/embed/playlist/${this.props.playlistID}`
     return(
       <div>
-
-        <div class="playlist_embedd">
-        
+        <div class="playlist_embed">
+          <div>
+            Your generated playlist:
+          </div>
+          <iframe class="embedded-playlist" src={playlistLink}
+                allowtransparency="true" allow="encrypted-media" title={this.props.playlistID}>
+        </iframe>
         </div>
-
-        
-        
       </div>
     )
   }

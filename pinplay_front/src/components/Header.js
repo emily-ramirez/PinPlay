@@ -12,6 +12,7 @@ class Header extends React.Component {
   storeLogin(id){
     this.props.getID(id)
   }
+
   render() {
   const token = Cookies.get('spotifyAuthToken')
   return (
@@ -40,7 +41,7 @@ class Header extends React.Component {
       ) : (
         // TODO: Replace 'localhost:3000' with 'pinplay.me'
         <SpotifyAuth
-          redirectUri='http://pinplay.me/'
+          redirectUri='http://localhost:3000/'
           clientID='b698366808af491eb20ed64dedd91914'
           scopes={['user-read-private', 'user-read-email', 'playlist-modify-public', 'playlist-modify-private']}
         />

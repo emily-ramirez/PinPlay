@@ -1,43 +1,32 @@
 import React from 'react';
 import {connect} from 'react-redux';
 import Cookies from 'js-cookie'
-import {makePlaylist} from '../actions'
+
 import 'react-spotify-auth/dist/index.css'
+import {Field, reduxForm} from 'redux-form';
+import PlaylistForm from './PlaylistForm';
+import {makePlaylist} from '../actions';
 
-class PlaylistFilters extends React.Component{
+class Filters extends React.Component{
 
-  onClick() {
+  onSubmit = (formValues) => {
     const token = Cookies.get('spotifyAuthToken');
-    const user_id = this.props.userID;
-    this.props.makePlaylist(user_id, token)
+    const user_id = this.props.userID
+    this.props.makePlaylist(token, user_id, formValues)
   }
 
   getPlaylistLink() {
     return `https://open.spotify.com/embed/playlist/${this.props.playlistID}`
   }
+  
   render(){
-  const token = Cookies.get('spotifyAuthToken');
-  return(
-    <div>
-      {token ? (
+    const token = Cookies.get('spotifyAuthToken');
+    return(
       <div>
-        {this.props.playlistID ? (
+      {this.props.userID ? (
         <div>
-          <div>
-            Your generated playlist:
-          </div>
-          <iframe class="embedded-playlist" src={this.getPlaylistLink()}
-                allowtransparency="true" allow="encrypted-media" title={this.props.playlistID}>
-        </iframe>
+          <PlaylistForm onSubmit={this.onSubmit}/>
         </div>
-      ) : (
-        <div>
-          <button onClick={this.onClick.bind(this)} class="ui button primary">
-            Generate A Playlist!
-          </button>
-        </div>
-      )}
-      </div>
       ) : (
       <div>
         Please log in to continue.
@@ -46,11 +35,21 @@ class PlaylistFilters extends React.Component{
       )}
       
     </div>
-  )}
+    )
+    
+  }
 }
-
 const mapStateToProps = (state, ownProps) => {
   return{playlistID:state.playlist.playlistID, userID:state.auth.userID};
 };
 
-export default connect(mapStateToProps, {makePlaylist})(PlaylistFilters);
+export default connect(mapStateToProps, {makePlaylist})(Filters);
+
+/*const token = Cookies.get('spotifyAuthToken');
+  return(
+    
+    )
+*/
+/*
+
+*/
