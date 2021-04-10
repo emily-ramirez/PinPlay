@@ -17,6 +17,11 @@ class EndScreen extends React.Component{
           <iframe class="embedded-playlist" src={playlistLink}
                 allowtransparency="true" allow="encrypted-media" title={this.props.playlistID}>
         </iframe>
+        <Link to={`/filters`} className="ui button primary">
+          <button type="button">
+          Create New Playlist
+          </button>
+        </Link>
         </div>
       </div>
     )

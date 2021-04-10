@@ -5,11 +5,11 @@ const ShowPlaylists = () => {
     <div>
       Playlists will be displayed here in the future.
       For now, click the button to your right to go to the playlist generation page.
-      <button type="button">
-        <Link to={`/filters`} className="ui button primary">
+      <Link to={`/filters`} className="ui button primary">
+        <button type="button">
           Click here!
-        </Link>
-      </button>
+        </button>
+      </Link>
     </div>
   )
 }
