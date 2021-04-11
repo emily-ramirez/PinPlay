@@ -4,7 +4,7 @@ import './../pinplay.css'
 
 class PlaylistForm extends React.Component{
   cities = ['NYC', 'LA', 'PHX']
-  genres = ['none', 'country', 'dance', 'edm', 'hip-hop', 'indie-pop', 'latin', 'party', 'pop', 'rap', 'rock-n-roll', 'r&b']
+  genres = ['none', 'country', 'dance', 'edm', 'hip hop', 'indie-pop', 'latin', 'party', 'pop', 'rap', 'rock-n-roll', 'r&b']
 
   renderCitySelector = ({ input, meta: { touched, error } }) => (
     <div>
