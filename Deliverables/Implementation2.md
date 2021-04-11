@@ -9,10 +9,10 @@ Note: Many of our implemented requirements involved contributions from several t
 In addition, not all requirements were implemented in a single pull, and not all pulls impacted only one requirement. For clarity, only one Github link will be provided as a representative for each requirement described. This may mean a team member can be listed as both a contributor and a reviewer for a requirement. This does not mean they reviewed their own pull request. It just means they were QA for the one specific pull request shown.
 
 Issue: "Add ability to log out"
-Trello link: https://trello.com/c/lKdr0r6D/27-add-ability-to-log-out
-Representative pull request link: https://github.com/emily-ramirez/PinPlay/pull/63
-Team members who contributed: Lucina
-Pull request reviewed by: Emily
+  Trello link: https://trello.com/c/lKdr0r6D/27-add-ability-to-log-out
+  Representative pull request link: https://github.com/emily-ramirez/PinPlay/pull/63
+  Team members who contributed: Lucina
+  Pull request reviewed by: Emily
 
 Issue: "Add filters for playlist customization"
 Trello link: https://trello.com/c/yZjb85rw/29-add-filters-for-playlist-customization
