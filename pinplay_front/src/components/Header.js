@@ -3,6 +3,7 @@ import {connect} from 'react-redux';
 import { SpotifyApiContext, User} from 'react-spotify-api'
 import Cookies from 'js-cookie'
 import {getID} from '../actions'
+import './../pinplay.css'
 
 import { SpotifyAuth } from 'react-spotify-auth'
 import 'react-spotify-auth/dist/index.css'
@@ -23,27 +24,34 @@ class Header extends React.Component {
   return (
     <div>
       <div className="background_header">
-      <h1>PinPlay</h1>
+       <h1>
+         <a href="/index.html">PinPlay</a>
+       </h1>
       <div style={{float:'right'}}>
       {token ? (
         <SpotifyApiContext.Provider value={token}>
           <User>
             {(user) =>
                   user && user.data ? (
-                    <p>
-                      <div>
-                      {this.storeLogin(user.data.id)}
-                      Logged in as {user.data.display_name}
-                      <button type="button" onClick={this.logOut}>
-                        Log Out
-                      </button>
+                    <div className={"row"}>
+                      <div className={"col-*-*"} style={{padding: '10px'}}>
+                           <h6>
+                              {this.storeLogin(user.data.id)}
+                              Logged in as {user.data.display_name}
+                            </h6>
                       </div>
-                    </p>
-                  ) : (
-                    <p>Loading...</p>
-                  )
-            }
-          </User>
+                      <div className={"col-*-*"}>
+                        <button type="button" onClick={this.logOut}>
+                                                        Log Out
+                                                    </button>
+                                                </div>
+
+                                            </div>
+                                        ) : (
+                                            <p>Loading...</p>
+                                        )
+                                    }
+                                </User>
 
         </SpotifyApiContext.Provider>
       ) : (
