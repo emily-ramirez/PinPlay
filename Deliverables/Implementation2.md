@@ -73,7 +73,6 @@ Team members who contributed: Lucina, Karina
 
 Pull request reviewed by: Sophia
 
-
 **Issue: “Creating visual aspects of website design”**
 
 Trello link: https://trello.com/c/MmeYb8px/18-creating-visual-aspects-of-website-design
@@ -88,7 +87,6 @@ Screenshot of feature:
 
 <img width="1236" alt="Screen Shot 2021-04-08 at 2 34 29 PM" src="https://user-images.githubusercontent.com/75813227/114103238-9d295e00-987d-11eb-9297-6d0eb988ef5b.png">
 
-
 **Issue: “Need to coordinate with front-end on Spotify login info”**
 
 Trello link: https://trello.com/c/dvebGKYf/16-need-to-coordinate-with-front-end-on-spotify-login-info
@@ -101,7 +99,7 @@ Pull request reviewed by: Emily
 
 Screenshot of feature:
 
-<img width="539" alt="Screen Shot 2021-04-08 at 3 06 34 PM" src="https://user-images.githubusercontent.com/75813227/114103247-a4e90280-987d-11eb-9ba9-a03a90968c0a.png">
+<img width="339" alt="Screen Shot 2021-04-08 at 3 06 34 PM" src="https://user-images.githubusercontent.com/75813227/114103247-a4e90280-987d-11eb-9ba9-a03a90968c0a.png">
 
 
 3. Demo
