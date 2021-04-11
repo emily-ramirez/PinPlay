@@ -32,6 +32,7 @@ Representative pull request link: https://github.com/emily-ramirez/PinPlay/pull/
 Team members who contributed: Jacob, Emily, Samantha, Lucina
 Pull request reviewed by: Sophia
 Screenshot of feature:
+
 <img width="316" alt="Screen Shot 2021-04-08 at 2 39 28 PM" src="https://user-images.githubusercontent.com/75813227/114103219-939ff600-987d-11eb-94de-8e217dddeaee.png">
 
 User story: "As a business owner, I want to select my business location so that customers can find playlists near them."
@@ -52,6 +53,7 @@ Representative pull request link: https://github.com/emily-ramirez/PinPlay/pull/
 Team members who contributed: Lucina, Sophia, Karina
 Pull request reviewed by: Emily
 Screenshot of feature:
+
 <img width="1236" alt="Screen Shot 2021-04-08 at 2 34 29 PM" src="https://user-images.githubusercontent.com/75813227/114103238-9d295e00-987d-11eb-9297-6d0eb988ef5b.png">
 
 Issue: “Need to coordinate with front-end on Spotify login info”
@@ -60,7 +62,9 @@ Representative pull request link: https://github.com/emily-ramirez/PinPlay/pull/
 Team members who contributed: Lucina, Samantha, Jacob, Karina, Emily
 Pull request reviewed by: Emily
 Screenshot of feature:
+
 <img width="539" alt="Screen Shot 2021-04-08 at 3 06 34 PM" src="https://user-images.githubusercontent.com/75813227/114103247-a4e90280-987d-11eb-9ba9-a03a90968c0a.png">
+
 
 3. Demo
 4. Code Quality
