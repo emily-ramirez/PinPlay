@@ -6,6 +6,7 @@ import 'react-spotify-auth/dist/index.css'
 import {Field, reduxForm} from 'redux-form';
 import PlaylistForm from './PlaylistForm';
 import {makePlaylist} from '../actions';
+import './../pinplay.css'
 
 class Filters extends React.Component{
 
@@ -28,10 +29,24 @@ class Filters extends React.Component{
           <PlaylistForm onSubmit={this.onSubmit}/>
         </div>
       ) : (
-      <div>
-        Please log in to continue.
-        NOTE: You may need to reload the page when you log in.
-      </div>
+      <div className={"modal fade"} role={"dialog"} id={"myModal"}>
+                        <div className={"modal-dialog"}>
+                            <div className={"modal-content"}>
+                                <div className={"modal-header"}>
+                                    <h5>Error</h5>
+                                    <button type={"button"} className={"close"} data-dismiss={"modal"}>&times;</button>
+
+                                </div>
+                                <div className={"modal-body"}>
+                                    <p>
+                                        Please log in to continue.</p>
+                                    <p>
+                                        NOTE: You may need to reload the page when you log in.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
       )}
       
     </div>
