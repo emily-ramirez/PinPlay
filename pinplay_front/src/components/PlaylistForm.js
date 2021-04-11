@@ -60,6 +60,9 @@ class PlaylistForm extends React.Component{
                         <label>Choose a Genre:</label>
                         <Field name="genre" component={this.renderGenreSelector}/>
                     </div>
+                    <div>
+                      Note: Loading may take some time when you click.
+                    </div>
                     <button type="submit" className={"submit"}>
                         Submit
                     </button>

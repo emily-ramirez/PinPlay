@@ -4,11 +4,11 @@ import history from '../history';
 export const makePlaylist = (token, id, formValues) => async dispatch => {
   const response = await django.get('/pinplay_api/', {params:{
     user_id: id,
-    auth_token: token,
+    spotify_token: token,
     playlist_name: "My Second Pinplay Playlist",
     location: formValues.city,
-    genre: formValues.genre,
-    explicit: formValues.explicit
+    explicit: formValues.explicit,
+    genre: formValues.genre
   }});
 
   dispatch({type:'MAKE_PLAYLIST', payload:response.data});
