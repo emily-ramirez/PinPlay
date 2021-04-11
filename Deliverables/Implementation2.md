@@ -18,6 +18,16 @@ Team members who contributed: Lucina
 
 Pull request reviewed by: Emily
 
+**Issue: "Update visual aspect of website"**
+
+Trello link: https://trello.com/c/STm05jYR/26-update-visual-aspect-of-website
+
+Representative pull request link: https://github.com/emily-ramirez/PinPlay/pull/64
+
+Team members who contributed: Karina
+
+Pull request reviewed by: Emily
+
 **Issue: "Add filters for playlist customization"**
 
 Trello link: https://trello.com/c/yZjb85rw/29-add-filters-for-playlist-customization
