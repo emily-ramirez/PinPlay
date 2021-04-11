@@ -52,6 +52,7 @@ Trello link: https://trello.com/c/MmeYb8px/18-creating-visual-aspects-of-website
 Representative pull request link: https://github.com/emily-ramirez/PinPlay/pull/59
 Team members who contributed: Lucina, Sophia, Karina
 Pull request reviewed by: Emily
+
 Screenshot of feature:
 
 <img width="1236" alt="Screen Shot 2021-04-08 at 2 34 29 PM" src="https://user-images.githubusercontent.com/75813227/114103238-9d295e00-987d-11eb-9297-6d0eb988ef5b.png">
