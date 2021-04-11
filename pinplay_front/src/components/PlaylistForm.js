@@ -1,5 +1,6 @@
 import React from 'react';
 import { Field, reduxForm } from 'redux-form';
+import './../pinplay.css'
 
 class PlaylistForm extends React.Component{
   cities = ['NYC', 'LA', 'PHX']
@@ -38,28 +39,32 @@ class PlaylistForm extends React.Component{
   }
   render() {
     return(
-      <div>
-        <form onSubmit={this.props.handleSubmit(this.onSubmit)}>
-          <div>
-            <label>Choose a City</label>
-            <Field name="city" component={this.renderCitySelector} />
-          </div>
-          <div>
-            <label>Allow explicit content?</label>
-            <Field name="explicit" component="input" type="radio" value="True" />{' '}
-            Yes
-            <Field name="explicit" component="input" type="radio" value="False" />{' '}
-            No
-          </div>
-          <div>
-            <label>Choose a Genre</label>
-            <Field name="genre" component={this.renderGenreSelector} />
-          </div>
-          <button type="submit">
-            Submit
-          </button>
-        </form>
-      </div>
+      <div className={"container"} id={"Form"}>
+                <form onSubmit={this.props.handleSubmit(this.onSubmit)} className={"form-horizontal"}>
+                    <div className={"form-group"}>
+                        <label>Choose a City:</label>
+                        <Field name="city" component={this.renderCitySelector}/>
+                    </div>
+                    <div className={"form-group"}>
+                        <label>Allow explicit content?</label>
+                        <p>
+                            <Field name="explicit" component="input" type="radio" value="True"/>{' '}
+                            Yes
+                        </p>
+                        <p>
+                        <Field name="explicit" component="input" type="radio" value="False"/>{' '}
+                        No
+                        </p>
+                    </div>
+                    <div className={"form-group"}>
+                        <label>Choose a Genre:</label>
+                        <Field name="genre" component={this.renderGenreSelector}/>
+                    </div>
+                    <button type="submit" className={"submit"}>
+                        Submit
+                    </button>
+                </form>
+            </div>
     )
   }
 }
