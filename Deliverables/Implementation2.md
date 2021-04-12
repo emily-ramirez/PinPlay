@@ -119,6 +119,7 @@ Screenshot of feature:
 
 
 ## 3. Demo
+Video Link: https://youtu.be/belj8mO9anI
 
 ## 4. Code Quality
 * **Division of labor** - our team has varied proficiencies and interests. It felt fitting to divide our team into teams, where our members could devote their time to the area which they understood best and were most interested in cultivating skills in.
