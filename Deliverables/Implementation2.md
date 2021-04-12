@@ -1,8 +1,14 @@
-D6: Implementation Part 2
+# Implementation 2
+*Group 06 – `PinPlay`\
+Date: `04/11/2021`\
+Group Members: Karina Anaya, Sophia Frohna, Samantha Milligan, Jacob Penney, Emily Ramirez Serrano, Lucina de la Rosa*
 
-1. Introduction
+## 1. Introduction
+Pinplay is a web application that allows users to quickly and easily create playlists based on popular music preferences in their area of interest. It seeks to add to Spotify’s existing functionality by offering more personalized playlists to the user. The system draws upon location data from Shazam to provide the top hits of the area for the new playlist. Users are able to securely log into their Spotify account on Pinplay to start accessing the functionality of the website. After the user  has been authenticated, a playlist can be created directly to their Spotify account with minimal work from the user. 
 
-2. Implemented Requirements
+Github - https://github.com/emily-ramirez/PinPlay \
+Trello - https://trello.com/b/7oDcPr7u/issue-tracker 
+## 2. Implemented Requirements
 
 Note: Many of our implemented requirements involved contributions from several team members. All contributors to an implemented requirement will be listed, in no particular order.
 
@@ -112,6 +118,6 @@ Screenshot of feature:
 <img width="339" alt="Screen Shot 2021-04-08 at 3 06 34 PM" src="https://user-images.githubusercontent.com/75813227/114103247-a4e90280-987d-11eb-9ba9-a03a90968c0a.png">
 
 
-3. Demo
-4. Code Quality
-5. Lessons Learned
+## 3. Demo
+## 4. Code Quality
+## 5. Lessons Learned
