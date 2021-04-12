@@ -119,5 +119,17 @@ Screenshot of feature:
 
 
 ## 3. Demo
+
 ## 4. Code Quality
+* **Division of labor** - our team has varied proficiencies and interests. It felt fitting to divide our team into teams, where our members could devote their time to the area which they understood best and were most interested in cultivating skills in.
+
+* **Peer review** - Both code development teams (back end and front end) internally reviewed team members' codes, looking for potential improvement in readability and logic.
+
+* **Utilization of varied technologies** - We examined code through a variety of linting tools. Where IDEs and some text editors have their own linting utilities built-in, others allow for more control over what tools the code can be examined with. Errors in our code were found using some tools but not with others.
+
+* **Planned redundancy** - After serious struggle to deploy our backend to production, our back end team members collaborated on as well as independently created functionality for this deliverable in an attempt to safeguard against failure.
+
 ## 5. Lessons Learned
+1. **Anticipating hurdles is difficult** - During the course of implementing a database to store the information that our back end relies upon for this deliverable, we ran into unforeseen complications where our deployment container service and database intersect; Heroku, the platform that we rely upon to contain our backend, clears its own contents periodically. Our database, SQLite3, uses files to store it's contents, allowing it to be used serverless. We felt that this quality made implementing SQLite3 convenient, until one of our members discovered the aforementioned quality of Heroku. To maintain our database, then, we are forced to either create a new database file on the server or host the database file that we need someplace else and upload it to our server every 24 hours. This exemplary issue, as well as others we experienced, elucidates the need for either thorough planning at the outset, as a team might do using the waterfall model in a professional setting, as well as/or a flexible and incremental approach, as a team might use when employing Agile principles. 
+2. **More and more thorough planning and documentation would be useful** - A constant theme throughout our implementation and deployment processes, we departed from the plans we created earlier in the semester as we began to experience issues with the actual creation of our project. The reasons feel varied: sometimes, our plans felt as though they didn’t reflect the reality of what we were trying to create and, other times, we could not solve how to implement something using the technologies we planned to. 
+3. **For a group of neophytes, it can be difficult to adhere to relatively unfamiliar software engineering practices** - Some of the documentation that we prepared earlier in the semester, such as user stories, and the plans that we had for those pieces of documentation fell by the wayside as we changed the plans for our project. It feels as though, as we scaled back the amount and changed the types of functionality that we planned to implement for our project, the plans we created no longer served us and we began to work not from new documentation but from plans spoken about in meetings and written in our group communication space. A more seasoned group of developers may have, because of their training and experience, instead begun to refactor documentation or create new pieces which accurately discussed the new direction that the project was taking. 
