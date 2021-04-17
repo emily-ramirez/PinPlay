@@ -37,7 +37,8 @@ Group Members: Karina Anaya, Sophia Frohna, Samantha Milligan, Jacob Penney, Emi
 
 ### Results
 
-*Interviewed user 1: Isabel Flores*\
+#### *Interviewed user 1: Isabel Flores*
+
 **Tasks**
 - The user logged into her spotify account without any issues. 
 - The first playlist was creating with LA, explicit on, and party filters.
@@ -63,7 +64,7 @@ A: 7/10, The user was looking for popular music and got it
 Q: *On a scale of 1 to 10, how would you rate the layout of the application?*\
 A: 8/10, The layout is simple but the user mentioned that there could be more done to make it stand out more. 
   
-*Interviewed user 2: Skyler Bolton*
+#### *Interviewed user 2: Skyler Bolton*
 
 **Tasks**
 - The user was able to log into his spotify account without any issues.
@@ -89,7 +90,8 @@ A: The user rated playlist satisfaction at an 8: the playlists were created corr
 Q: *On a scale of 1 to 10, how would you rate the layout of the application?*\
 A: The user rated the layout as a 7: he had some confusion with the "choose a city" dropdown and also wishes there was a loading screen to show that the playlist was in the process of being created.
 
-*Interviewed user 3: Name* \
+#### *Interviewed user 3: Name*
+
 **Tasks**
 - Text
 
