@@ -25,7 +25,7 @@ class Header extends React.Component {
     <div>
       <div className="background_header">
        <h1>
-         <a href="/index.html">PinPlay</a>
+       <Link to={`/`}>PinPlay</Link>
        </h1>
       <div style={{float:'right'}}>
       {token ? (
