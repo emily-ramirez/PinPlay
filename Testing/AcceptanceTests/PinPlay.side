@@ -1,0 +1,546 @@
+{
+  "id": "573458ca-45de-4b78-bdaa-0e6a3e0f57c2",
+  "version": "2.0",
+  "name": "PinPlay",
+  "url": "http://pinplay.me/",
+  "tests": [{
+    "id": "4a566625-0f17-4233-82d0-cb1f959a872a",
+    "name": "test1",
+    "commands": [{
+      "id": "ff59bb24-cb32-4795-b66d-943127cba683",
+      "comment": "",
+      "command": "open",
+      "target": "http://pinplay.me/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "6909c66d-7503-43c6-be12-18467ef29830",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1258x815",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "063e4827-f5a3-4362-b16a-d39d9d38309b",
+      "comment": "",
+      "command": "click",
+      "target": "css=.ClickHere:nth-child(1)",
+      "targets": [
+        ["css=.ClickHere:nth-child(1)", "css:finder"],
+        ["xpath=//button[@type='button']", "xpath:attributes"],
+        ["xpath=//div[@id='root']/div/div[2]/div/div/div/a/button", "xpath:idRelative"],
+        ["xpath=//a/button", "xpath:position"],
+        ["xpath=//button[contains(.,'Click here!')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "52782930-fe3a-4a73-952f-6d565b564ac3",
+      "comment": "",
+      "command": "mouseOver",
+      "target": "css=.ClickHere:nth-child(1)",
+      "targets": [
+        ["css=.ClickHere:nth-child(1)", "css:finder"],
+        ["xpath=//button[@type='button']", "xpath:attributes"],
+        ["xpath=//div[@id='root']/div/div[2]/div/div/div/a/button", "xpath:idRelative"],
+        ["xpath=//a/button", "xpath:position"],
+        ["xpath=//button[contains(.,'Click here!')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "26fabd9c-f67f-44e6-b3c6-a925f32ecca5",
+      "comment": "",
+      "command": "click",
+      "target": "css=.close",
+      "targets": [
+        ["css=.close", "css:finder"],
+        ["xpath=//button[@type='button']", "xpath:attributes"],
+        ["xpath=//div[@id='myModal']/div/div/div/button", "xpath:idRelative"],
+        ["xpath=//div[2]/div/div/div/div/div/button", "xpath:position"],
+        ["xpath=//button[contains(.,'×')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "e55c941b-8422-45e7-89fc-34df73b1cd03",
+      "comment": "",
+      "command": "click",
+      "target": "css=span",
+      "targets": [
+        ["css=span", "css:finder"],
+        ["xpath=//div[@id='root']/div/div/div/div/button/span", "xpath:idRelative"],
+        ["xpath=//span", "xpath:position"],
+        ["xpath=//span[contains(.,'Continue with Spotify')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "45f25c0d-f774-447d-a43a-f951f87ef557",
+      "comment": "",
+      "command": "click",
+      "target": "id=login-username",
+      "targets": [
+        ["id=login-username", "id"],
+        ["name=username", "name"],
+        ["css=#login-username", "css:finder"],
+        ["xpath=//input[@id='login-username']", "xpath:attributes"],
+        ["xpath=//html[@id='app']/body/div/div[2]/div/form/div/div/input", "xpath:idRelative"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "e53b7d14-f482-4614-9db5-82af6a5293ca",
+      "comment": "",
+      "command": "click",
+      "target": "css=.spotify-logo",
+      "targets": [
+        ["css=.spotify-logo", "css:finder"],
+        ["xpath=//html[@id='app']/body/div/div/div/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '/en')]", "xpath:href"],
+        ["xpath=//a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "3f61d2ce-0ec6-41fa-b95e-79f5292815af",
+      "comment": "",
+      "command": "close",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }]
+  }, {
+    "id": "431b61ac-d412-4380-9f99-5a06d5f2a7a8",
+    "name": "test3",
+    "commands": [{
+      "id": "c6097fca-a80c-45ed-bedd-0380bc07e57d",
+      "comment": "",
+      "command": "open",
+      "target": "http://pinplay.me/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "ecdec2ed-20de-47a1-aa1e-1b8a31d17bc8",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1258x815",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "62a6d862-26bd-4d89-9c16-f246758a1563",
+      "comment": "",
+      "command": "click",
+      "target": "css=.ClickHere:nth-child(1)",
+      "targets": [
+        ["css=.ClickHere:nth-child(1)", "css:finder"],
+        ["xpath=(//button[@type='button'])[2]", "xpath:attributes"],
+        ["xpath=//div[@id='root']/div/div[2]/div/div/div/a/button", "xpath:idRelative"],
+        ["xpath=//a/button", "xpath:position"],
+        ["xpath=//button[contains(.,'Click here!')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "0bf558d6-b7f5-4575-82c1-93e245d9a155",
+      "comment": "",
+      "command": "click",
+      "target": "name=city",
+      "targets": [
+        ["name=city", "name"],
+        ["css=.form-group:nth-child(1) select", "css:finder"],
+        ["xpath=//select[@name='city']", "xpath:attributes"],
+        ["xpath=//div[@id='Form']/form/div/div/select", "xpath:idRelative"],
+        ["xpath=//select", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "c01df85a-db26-45ad-9175-11fc246d2563",
+      "comment": "",
+      "command": "select",
+      "target": "name=city",
+      "targets": [],
+      "value": "label=NYC"
+    }, {
+      "id": "2e40f4cf-eaf0-4c06-9790-74870ac61013",
+      "comment": "",
+      "command": "click",
+      "target": "name=explicit",
+      "targets": [
+        ["name=explicit", "name"],
+        ["css=p:nth-child(2) > input", "css:finder"],
+        ["xpath=//input[@name='explicit']", "xpath:attributes"],
+        ["xpath=//div[@id='Form']/form/div[2]/p/input", "xpath:idRelative"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "dbc64ced-1ba3-4a75-a03e-5245b80e7e15",
+      "comment": "",
+      "command": "click",
+      "target": "name=genre",
+      "targets": [
+        ["name=genre", "name"],
+        ["css=.form-group:nth-child(3) select", "css:finder"],
+        ["xpath=//select[@name='genre']", "xpath:attributes"],
+        ["xpath=//div[@id='Form']/form/div[3]/div/select", "xpath:idRelative"],
+        ["xpath=//div[3]/div/select", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "e506ef30-19ae-4331-bef9-7fe72b5c195b",
+      "comment": "",
+      "command": "select",
+      "target": "name=genre",
+      "targets": [],
+      "value": "label=indie-pop"
+    }, {
+      "id": "490fed90-e8dd-47c2-ae53-06a42b653fad",
+      "comment": "",
+      "command": "click",
+      "target": "css=.submit",
+      "targets": [
+        ["css=.submit", "css:finder"],
+        ["xpath=//button[@type='submit']", "xpath:attributes"],
+        ["xpath=//div[@id='Form']/form/button", "xpath:idRelative"],
+        ["xpath=//form/button", "xpath:position"],
+        ["xpath=//button[contains(.,'Submit')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "fe86a98d-0929-4519-8a99-1744d461c340",
+      "comment": "",
+      "command": "click",
+      "target": "css=.submit",
+      "targets": [
+        ["css=.submit", "css:finder"],
+        ["xpath=//button[@type='submit']", "xpath:attributes"],
+        ["xpath=//div[@id='Form']/form/button", "xpath:idRelative"],
+        ["xpath=//form/button", "xpath:position"],
+        ["xpath=//button[contains(.,'Submit')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "e0e4508d-f87a-4099-9842-217e8f3d5089",
+      "comment": "",
+      "command": "close",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }]
+  }, {
+    "id": "09172493-fda5-405e-a923-63ca6a71edf1",
+    "name": "test4",
+    "commands": [{
+      "id": "a289269c-b76c-4e2b-8276-ecd73bf2800e",
+      "comment": "",
+      "command": "open",
+      "target": "http://pinplay.me/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "de18de69-03d2-46c9-90d0-5182cfc33444",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1258x815",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "794e2de9-b0c0-4c6f-bb3f-e0b73f081758",
+      "comment": "",
+      "command": "click",
+      "target": "css=.ClickHere:nth-child(1)",
+      "targets": [
+        ["css=.ClickHere:nth-child(1)", "css:finder"],
+        ["xpath=(//button[@type='button'])[2]", "xpath:attributes"],
+        ["xpath=//div[@id='root']/div/div[2]/div/div/div/a/button", "xpath:idRelative"],
+        ["xpath=//a/button", "xpath:position"],
+        ["xpath=//button[contains(.,'Click here!')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "61d8f189-dcd5-4226-b8bf-5b60298299cb",
+      "comment": "",
+      "command": "click",
+      "target": "name=city",
+      "targets": [
+        ["name=city", "name"],
+        ["css=.form-group:nth-child(1) select", "css:finder"],
+        ["xpath=//select[@name='city']", "xpath:attributes"],
+        ["xpath=//div[@id='Form']/form/div/div/select", "xpath:idRelative"],
+        ["xpath=//select", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "e00d82be-7ad8-4680-80c4-26da47fb6a3e",
+      "comment": "",
+      "command": "select",
+      "target": "name=city",
+      "targets": [],
+      "value": "label=LA"
+    }, {
+      "id": "aaa1b94b-9742-4d95-ae9e-0518bbe94472",
+      "comment": "",
+      "command": "click",
+      "target": "name=explicit",
+      "targets": [
+        ["name=explicit", "name"],
+        ["css=p:nth-child(2) > input", "css:finder"],
+        ["xpath=//input[@name='explicit']", "xpath:attributes"],
+        ["xpath=//div[@id='Form']/form/div[2]/p/input", "xpath:idRelative"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "71476336-4b23-4eea-9a35-a45adf352828",
+      "comment": "",
+      "command": "click",
+      "target": "name=genre",
+      "targets": [
+        ["name=genre", "name"],
+        ["css=.form-group:nth-child(3) select", "css:finder"],
+        ["xpath=//select[@name='genre']", "xpath:attributes"],
+        ["xpath=//div[@id='Form']/form/div[3]/div/select", "xpath:idRelative"],
+        ["xpath=//div[3]/div/select", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "24b199a9-d165-4b37-9eea-cfb6c9fe49db",
+      "comment": "",
+      "command": "select",
+      "target": "name=genre",
+      "targets": [],
+      "value": "label=party"
+    }, {
+      "id": "e12b4b99-75e8-48e5-86d5-95080be6cfd3",
+      "comment": "",
+      "command": "click",
+      "target": "css=.submit",
+      "targets": [
+        ["css=.submit", "css:finder"],
+        ["xpath=//button[@type='submit']", "xpath:attributes"],
+        ["xpath=//div[@id='Form']/form/button", "xpath:idRelative"],
+        ["xpath=//form/button", "xpath:position"],
+        ["xpath=//button[contains(.,'Submit')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "993423fe-b795-41d2-ab64-be93d97be827",
+      "comment": "",
+      "command": "click",
+      "target": "css=.col-\\*-\\* > button",
+      "targets": [
+        ["css=.col-\\*-\\* > button", "css:finder"],
+        ["xpath=//button[@type='button']", "xpath:attributes"],
+        ["xpath=//div[@id='root']/div/div/div/div/div/div[2]/button", "xpath:idRelative"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'Log Out')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "0767e3bc-a39b-4432-aeca-8860a7b022c0",
+      "comment": "",
+      "command": "close",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }]
+  }, {
+    "id": "db92b47f-4bf9-4bc2-b570-762eae2cdc2d",
+    "name": "Login and playlist generation: Non-explicit Dance Phx",
+    "commands": [{
+      "id": "3c119bac-ef99-41ad-b7a8-3d2252ba9ed4",
+      "comment": "",
+      "command": "open",
+      "target": "http://pinplay.me/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "c801a22c-df78-4d6f-b2e8-e6a209d282b5",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1258x815",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "3f555476-1d05-4bd6-9490-8a45456b9eba",
+      "comment": "",
+      "command": "click",
+      "target": "css=span",
+      "targets": [
+        ["css=span", "css:finder"],
+        ["xpath=//div[@id='root']/div/div/div/div/button/span", "xpath:idRelative"],
+        ["xpath=//span", "xpath:position"],
+        ["xpath=//span[contains(.,'Continue with Spotify')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "04e67f4f-a01b-4a1a-bf0f-a17de96693cf",
+      "comment": "",
+      "command": "click",
+      "target": "css=span",
+      "targets": [
+        ["css=span", "css:finder"],
+        ["xpath=//div[@id='root']/div/div/div/div/button/span", "xpath:idRelative"],
+        ["xpath=//span", "xpath:position"],
+        ["xpath=//span[contains(.,'Continue with Spotify')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "8748669f-f703-40d7-80f2-8affafb36202",
+      "comment": "",
+      "command": "click",
+      "target": "css=.ClickHere:nth-child(1)",
+      "targets": [
+        ["css=.ClickHere:nth-child(1)", "css:finder"],
+        ["xpath=(//button[@type='button'])[2]", "xpath:attributes"],
+        ["xpath=//div[@id='root']/div/div[2]/div/div/div/a/button", "xpath:idRelative"],
+        ["xpath=//a/button", "xpath:position"],
+        ["xpath=//button[contains(.,'Click here!')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "75dd4e86-79b5-4136-85e9-f018a97483f6",
+      "comment": "",
+      "command": "click",
+      "target": "name=city",
+      "targets": [
+        ["name=city", "name"],
+        ["css=.form-group:nth-child(1) select", "css:finder"],
+        ["xpath=//select[@name='city']", "xpath:attributes"],
+        ["xpath=//div[@id='Form']/form/div/div/select", "xpath:idRelative"],
+        ["xpath=//select", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "d97cf74d-949b-44e6-b099-b45312b9b367",
+      "comment": "",
+      "command": "select",
+      "target": "name=city",
+      "targets": [],
+      "value": "label=PHX"
+    }, {
+      "id": "8557fe9e-9ac8-48b5-9638-63a32c04c39f",
+      "comment": "",
+      "command": "click",
+      "target": "css=p:nth-child(3) > input",
+      "targets": [
+        ["css=p:nth-child(3) > input", "css:finder"],
+        ["xpath=(//input[@name='explicit'])[2]", "xpath:attributes"],
+        ["xpath=//div[@id='Form']/form/div[2]/p[2]/input", "xpath:idRelative"],
+        ["xpath=//p[2]/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "e13acd41-f96d-4518-aa93-1716abb6bafb",
+      "comment": "",
+      "command": "click",
+      "target": "name=genre",
+      "targets": [
+        ["name=genre", "name"],
+        ["css=.form-group:nth-child(3) select", "css:finder"],
+        ["xpath=//select[@name='genre']", "xpath:attributes"],
+        ["xpath=//div[@id='Form']/form/div[3]/div/select", "xpath:idRelative"],
+        ["xpath=//div[3]/div/select", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "eef036b8-cde9-4405-b50c-ac790176fc8a",
+      "comment": "",
+      "command": "select",
+      "target": "name=genre",
+      "targets": [],
+      "value": "label=dance"
+    }, {
+      "id": "cdd196f7-9213-4725-a5bb-78e9780999a4",
+      "comment": "",
+      "command": "click",
+      "target": "css=.submit",
+      "targets": [
+        ["css=.submit", "css:finder"],
+        ["xpath=//button[@type='submit']", "xpath:attributes"],
+        ["xpath=//div[@id='Form']/form/button", "xpath:idRelative"],
+        ["xpath=//form/button", "xpath:position"],
+        ["xpath=//button[contains(.,'Submit')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "bbde6282-ecd3-4357-ab68-af85fa1e7690",
+      "comment": "",
+      "command": "close",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }]
+  }, {
+    "id": "5b960c3b-bf37-40b2-948d-fab0a3bf8bc2",
+    "name": "test2",
+    "commands": [{
+      "id": "def6f46a-7248-41b2-aba0-578d3d2cdbfc",
+      "comment": "",
+      "command": "open",
+      "target": "http://pinplay.me/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "18626f3d-d2c1-4dc6-9460-42a5a57873e6",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1258x815",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "154953fa-b366-45e6-b7ea-c7b5e368dbee",
+      "comment": "",
+      "command": "click",
+      "target": "css=.ClickHere:nth-child(1)",
+      "targets": [
+        ["css=.ClickHere:nth-child(1)", "css:finder"],
+        ["xpath=//button[@type='button']", "xpath:attributes"],
+        ["xpath=//div[@id='root']/div/div[2]/div/div/div/a/button", "xpath:idRelative"],
+        ["xpath=//a/button", "xpath:position"],
+        ["xpath=//button[contains(.,'Click here!')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "52aed41c-c376-4e2d-a66d-8c6e58fa0400",
+      "comment": "",
+      "command": "click",
+      "target": "css=.close",
+      "targets": [
+        ["css=.close", "css:finder"],
+        ["xpath=//button[@type='button']", "xpath:attributes"],
+        ["xpath=//div[@id='myModal']/div/div/div/button", "xpath:idRelative"],
+        ["xpath=//div[2]/div/div/div/div/div/button", "xpath:position"],
+        ["xpath=//button[contains(.,'×')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "60b6aae7-7c29-4303-bc1c-88a6e444e7fe",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=PinPlay",
+      "targets": [
+        ["linkText=PinPlay", "linkText"],
+        ["css=a", "css:finder"],
+        ["xpath=//a[contains(text(),'PinPlay')]", "xpath:link"],
+        ["xpath=//div[@id='root']/div/div/div/h1/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '/index.html')]", "xpath:href"],
+        ["xpath=//a", "xpath:position"],
+        ["xpath=//a[contains(.,'PinPlay')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "76704a2c-2293-4ed3-8190-55d9a86c0fd2",
+      "comment": "",
+      "command": "close",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "7982bbf9-ee92-4a4f-9150-3ae29af86411",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["4a566625-0f17-4233-82d0-cb1f959a872a"]
+  }],
+  "urls": ["http://pinplay.me/"],
+  "plugins": []
+}
