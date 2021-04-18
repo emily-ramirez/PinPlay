@@ -90,27 +90,37 @@ A: The user rated playlist satisfaction at an 8: the playlists were created corr
 Q: *On a scale of 1 to 10, how would you rate the layout of the application?*\
 A: The user rated the layout as a 7: he had some confusion with the "choose a city" dropdown and also wishes there was a loading screen to show that the playlist was in the process of being created.
 
-#### *Interviewed user 3: Name*
+#### *Interviewed user 3: Jared Tee*
 
 **Tasks**
-- Text
+- User was able to login to Spotify without issue but needed to refresh the page.
+- User selected NYC , Explicit, and EDM as the first playlist.
+- User selected LA, NonExplicit, and Rap as the second playlist.
+- User selected PHX, Explicit, and Country as the third playlist.
+- User ran the filter page without selecting any options.
+- User clicked logout on the Filter page.
+- User click the header to the homepage.
 
 **Collection**
-- Text
+- The User created 3 playlists with different results and many had at least one song or none at all.
+- User clicked to logout on the Filter selection page getting an Error.
+- User can create multiple playlist without selecting any filter options just by click Select one of multiple times.
+- User can create playlist with just one option selected.
+- User clicking the header to the homepage sents the user to index.html and not the actual homepage.
 
 **Questions**
 
-Q:\
-A:
+Q:*How simple is it to use the website?*\
+A: It is simple, simple enough not complicated.
 
-Q:\
-A:
+Q:*Is there anything that is missing that is offered by similar services?*\
+A: Larger database of songs. I would also like to have something that compares what's trending on Youtube vs Tik tok vs Spotify.
 
-Q:\
-A:
+Q:*On a scale of 1 to 10, how satisfied were you with the playlists that were generated.*\
+A: 10, The playlist I've created by hand I rarely listen to so getting an auto-generated playlist that has the latest music trends makes it easier for me.
 
-Q:\
-A:
+Q:*On a scale of 1 to 10, how would you rate the layout of the application?*\
+A: 7, Its nice when you generate the playlist filter options but the window is too small. Make it bigger. As well as the playlist itself is too small make it bigger.
 
 ### Reflections
 
@@ -123,3 +133,5 @@ The website was working as intended and the user did not much find much difficul
 Overall, it seems that the website worked well, with only a few minor errors that need fixing. The website's way of handling web pages needs some work since logging out can give a 404 error and the link in the header does not work, but the rest of it works correctly. There is no learning curve, other than a bit of confusion with what the city selection dropdown does. The user was able to perform tasks as expected and the actions produced the expected results, with the exception of the indie pop issue. The user liked the simplicity of using the website the most, since the process was very streamlined and simple. Based on this feedback, I would say that the value proposition was accomplished.
 
 * User 3
+
+The website worked as expected, the user was able to go through the steps as instructed but then when I left the user to mess with the website with the intention to see any errors or break the issues appeared. The first issue appears with logging in and logging out can break the site if done on a page that's not the homepage. Another issue of playlists being inconsistant on the number of songs it generates. The user also added additional comments such as "maybe add a loading screen when generating the playlists". As well as "Change the name of what the playlist is called after generation". Overall, the user did enjoyed the simplitiy of the site and expressed they will plan to use it if available. In this interview, I say that we accomplished the value proposition.
