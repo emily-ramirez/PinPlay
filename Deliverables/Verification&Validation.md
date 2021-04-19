@@ -21,6 +21,11 @@ Group Members: Karina Anaya, Sophia Frohna, Samantha Milligan, Jacob Penney, Emi
 2.2.4:
 
 ### 2.3. Acceptance Test
+Selenium IDE was used to perform the acceptance tests. 
+Acceptance test folder: https://github.com/emily-ramirez/PinPlay/tree/master/Testing/AcceptanceTests
+Example test link: https://github.com/emily-ramirez/PinPlay/blob/master/Testing/AcceptanceTests/test_loginandplaylistgenerationNonexplicitDancePhx.py
+Here, the feature tested is the generation of a Phoenix-local, non-explicit, dance music playlist. This test includes login and is successful on the current build.
+Video of this test executing: https://github.com/emily-ramirez/PinPlay/blob/master/Testing/AcceptanceTests/AcceptanceTestVideo.mp4
 
 ## 3. Validation
 
