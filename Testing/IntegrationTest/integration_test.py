@@ -33,8 +33,8 @@ pinplay_login_button.click()
 
 # login to spotify on pinplay.me
     # initialize variables
-username = "j_penney"
-password = "formattedSpotify"
+username = ""
+password = ""
 
     # find username field 
 username_field = driver.find_element_by_id( "login-username" )
