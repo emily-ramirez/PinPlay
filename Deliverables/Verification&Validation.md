@@ -11,6 +11,13 @@ PinPlay is a web application that automatically generates playlists to add to a 
 ## 2. Verification (tests)
 
 ### 2.1. Unit Test
+2.1.1. Django uses the unittest module built-in to the Python standard library.
+
+2.1.2. Backend unit test link: https://github.com/samantha-milligan/heroku/blob/main/pinplay_api/tests.py
+
+2.1.3. Example of mock objects link: https://github.com/samantha-milligan/heroku/blob/main/pinplay_api/tests.py
+
+2.1.4. Result screenshot: ![image](media/django_unit_test.png)
 
 ### 2.2. Integration Test
 2.2.1: Selenium CLI
