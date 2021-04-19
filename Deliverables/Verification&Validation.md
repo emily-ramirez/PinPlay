@@ -12,9 +12,9 @@ Group Members: Karina Anaya, Sophia Frohna, Samantha Milligan, Jacob Penney, Emi
 ### 2.1. Unit Test
 2.1.1. Django uses the unittest module built-in to the Python standard library.
 
-2.1.2. Backend unit test link: 
+2.1.2. Backend unit test link: https://github.com/samantha-milligan/heroku/blob/main/pinplay_api/tests.py
 
-2.1.3. Example of mock objects link:
+2.1.3. Example of mock objects link: https://github.com/samantha-milligan/heroku/blob/main/pinplay_api/tests.py
 
 2.1.4. Result screenshot: ![image](media/django_unit_test.png)
 
