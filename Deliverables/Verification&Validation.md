@@ -12,13 +12,14 @@ Group Members: Karina Anaya, Sophia Frohna, Samantha Milligan, Jacob Penney, Emi
 ### 2.1. Unit Test
 
 ### 2.2. Integration Test
-2.2.1: Selenium
+2.2.1: Selenium CLI
 
-2.2.2:
+2.2.2: https://github.com/emily-ramirez/PinPlay/tree/master/Testing/IntegrationTest
  
-2.2.3:
+2.2.3: https://github.com/emily-ramirez/PinPlay/blob/master/Testing/IntegrationTest/integration_test.py
+       - This test exercises the totality of our application as it is now. It logs the user in, selects a set of filters which modify the playlist, submits the information so that the playlist can be generated, and logs the user out
 
-2.2.4:
+2.2.4: 
 
 ### 2.3. Acceptance Test
 Selenium IDE was used to perform the acceptance tests. 
