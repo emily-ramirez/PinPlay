@@ -12,6 +12,10 @@ Group Members: Karina Anaya, Sophia Frohna, Samantha Milligan, Jacob Penney, Emi
 ### 2.1. Unit Test
 
 ### 2.2. Integration Test
+2.2.1: Selenium
+2.2.2: 
+2.2.3:
+2.2.4:
 
 ### 2.3. Acceptance Test
 
