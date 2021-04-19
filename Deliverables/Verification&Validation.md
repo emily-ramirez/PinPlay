@@ -6,6 +6,7 @@ Date: `04/17/2021`\
 Group Members: Karina Anaya, Sophia Frohna, Samantha Milligan, Jacob Penney, Emily Ramirez Serrano, Lucina de la Rosa*
 
 ## 1. Description
+PinPlay is a web application that automatically generates playlists to add to a user's Spotify library. Users can supply the generator with a preferred genre, whether or not to allow explicit songs in the playlist, and a city for finding popular music by location. PinPlay is designed especially for use by businesses and workers, so they can create playlists customized to local taste that customers will enjoy.
 
 ## 2. Verification (tests)
 
